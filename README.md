@@ -2,6 +2,14 @@
 
 The new Streamlit app has **Rule-based**, **ML-based**, and **Comparison** tabs, animated processing, real rule matches, learned feature contributions, and one shared input.
 
+## Hosted app and detailed report
+
+Live app: https://cryptopbl.streamlit.app/
+
+Source: https://github.com/shahrukh-210906/sql-sentinel-cns-pbl
+
+The detailed technical report is in `docs/Project-Technical-Report.docx`, with a PDF copy and editable Markdown source. It explains the algorithms, equations, parameters, training, source files, animations, state, results, tests, deployment, and limitations.
+
 ## Run
 
 Double-click `run_streamlit.bat` on Windows. Requires Python 3.12 or newer. The launcher installs dependencies into `.venv` and starts http://127.0.0.1:8501.

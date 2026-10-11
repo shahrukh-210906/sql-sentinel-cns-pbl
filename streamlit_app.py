@@ -58,7 +58,7 @@ with st.sidebar:
     animate=st.toggle('Animate the steps',value=True)
     st.caption(CASES[st.session_state['example']][1])
     st.divider()
-    st.caption('Local text inspection. No SQL is executed.')
+    st.caption('Text inspection only. No SQL is executed.')
 
 st.title('One input. Two perspectives.')
 st.caption('A trained ML model and a rule checklist. Explore, then compare.')
