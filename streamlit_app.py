@@ -58,7 +58,8 @@ def analyze():
         return
     normalized=normalize(text)
     rule_input=re.sub(r'/\*.*?\*/',' ',normalized)
-    st.session_state['analysis']=dict(text=text,normalized=normalized,
+    st.session_state['analysis_run']=st.session_state.get('analysis_run',0)+1
+    st.session_state['analysis']=dict(text=text,normalized=normalized,run_id=st.session_state['analysis_run'],
         rule_based=rule_detect(text),ml_based=model().predict(text),
         checks=[dict(name=name,matched=bool(re.search(pattern,rule_input))) for name,pattern in RULES])
 
