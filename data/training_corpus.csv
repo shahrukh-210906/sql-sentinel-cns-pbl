@@ -1,0 +1,2185 @@
+text,label,split,family
+customer alex0,0,train,train-0-0
+customer riley1,0,train,train-0-0
+customer guest2,0,train,train-0-0
+customer entry3,0,train,train-0-0
+customer search4,0,train,train-0-0
+customer item5,0,train,train-0-0
+customer alex6,0,train,train-0-0
+customer riley7,0,train,train-0-0
+customer guest8,0,train,train-0-0
+customer entry9,0,train,train-0-0
+customer search10,0,train,train-0-0
+customer item11,0,train,train-0-0
+customer alex12,0,train,train-0-0
+customer riley13,0,train,train-0-0
+customer guest14,0,train,train-0-0
+customer entry15,0,train,train-0-0
+customer search16,0,train,train-0-0
+customer item17,0,train,train-0-0
+customer alex18,0,train,train-0-0
+customer riley19,0,train,train-0-0
+customer guest20,0,train,train-0-0
+customer entry21,0,train,train-0-0
+customer search22,0,train,train-0-0
+customer item23,0,train,train-0-0
+customer alex24,0,train,train-0-0
+customer riley25,0,train,train-0-0
+customer guest26,0,train,train-0-0
+customer entry27,0,train,train-0-0
+customer search28,0,train,train-0-0
+customer item29,0,train,train-0-0
+alex0@example.com,0,train,train-0-1
+riley1@example.com,0,train,train-0-1
+guest2@example.com,0,train,train-0-1
+entry3@example.com,0,train,train-0-1
+search4@example.com,0,train,train-0-1
+item5@example.com,0,train,train-0-1
+alex6@example.com,0,train,train-0-1
+riley7@example.com,0,train,train-0-1
+guest8@example.com,0,train,train-0-1
+entry9@example.com,0,train,train-0-1
+search10@example.com,0,train,train-0-1
+item11@example.com,0,train,train-0-1
+alex12@example.com,0,train,train-0-1
+riley13@example.com,0,train,train-0-1
+guest14@example.com,0,train,train-0-1
+entry15@example.com,0,train,train-0-1
+search16@example.com,0,train,train-0-1
+item17@example.com,0,train,train-0-1
+alex18@example.com,0,train,train-0-1
+riley19@example.com,0,train,train-0-1
+guest20@example.com,0,train,train-0-1
+entry21@example.com,0,train,train-0-1
+search22@example.com,0,train,train-0-1
+item23@example.com,0,train,train-0-1
+alex24@example.com,0,train,train-0-1
+riley25@example.com,0,train,train-0-1
+guest26@example.com,0,train,train-0-1
+entry27@example.com,0,train,train-0-1
+search28@example.com,0,train,train-0-1
+item29@example.com,0,train,train-0-1
+find alex0 shoes,0,train,train-0-2
+find riley1 shoes,0,train,train-0-2
+find guest2 shoes,0,train,train-0-2
+find entry3 shoes,0,train,train-0-2
+find search4 shoes,0,train,train-0-2
+find item5 shoes,0,train,train-0-2
+find alex6 shoes,0,train,train-0-2
+find riley7 shoes,0,train,train-0-2
+find guest8 shoes,0,train,train-0-2
+find entry9 shoes,0,train,train-0-2
+find search10 shoes,0,train,train-0-2
+find item11 shoes,0,train,train-0-2
+find alex12 shoes,0,train,train-0-2
+find riley13 shoes,0,train,train-0-2
+find guest14 shoes,0,train,train-0-2
+find entry15 shoes,0,train,train-0-2
+find search16 shoes,0,train,train-0-2
+find item17 shoes,0,train,train-0-2
+find alex18 shoes,0,train,train-0-2
+find riley19 shoes,0,train,train-0-2
+find guest20 shoes,0,train,train-0-2
+find entry21 shoes,0,train,train-0-2
+find search22 shoes,0,train,train-0-2
+find item23 shoes,0,train,train-0-2
+find alex24 shoes,0,train,train-0-2
+find riley25 shoes,0,train,train-0-2
+find guest26 shoes,0,train,train-0-2
+find entry27 shoes,0,train,train-0-2
+find search28 shoes,0,train,train-0-2
+find item29 shoes,0,train,train-0-2
+O'Reilly alex0,0,train,train-0-3
+O'Reilly riley1,0,train,train-0-3
+O'Reilly guest2,0,train,train-0-3
+O'Reilly entry3,0,train,train-0-3
+O'Reilly search4,0,train,train-0-3
+O'Reilly item5,0,train,train-0-3
+O'Reilly alex6,0,train,train-0-3
+O'Reilly riley7,0,train,train-0-3
+O'Reilly guest8,0,train,train-0-3
+O'Reilly entry9,0,train,train-0-3
+O'Reilly search10,0,train,train-0-3
+O'Reilly item11,0,train,train-0-3
+O'Reilly alex12,0,train,train-0-3
+O'Reilly riley13,0,train,train-0-3
+O'Reilly guest14,0,train,train-0-3
+O'Reilly entry15,0,train,train-0-3
+O'Reilly search16,0,train,train-0-3
+O'Reilly item17,0,train,train-0-3
+O'Reilly alex18,0,train,train-0-3
+O'Reilly riley19,0,train,train-0-3
+O'Reilly guest20,0,train,train-0-3
+O'Reilly entry21,0,train,train-0-3
+O'Reilly search22,0,train,train-0-3
+O'Reilly item23,0,train,train-0-3
+O'Reilly alex24,0,train,train-0-3
+O'Reilly riley25,0,train,train-0-3
+O'Reilly guest26,0,train,train-0-3
+O'Reilly entry27,0,train,train-0-3
+O'Reilly search28,0,train,train-0-3
+O'Reilly item29,0,train,train-0-3
+order number alex0,0,train,train-0-4
+order number riley1,0,train,train-0-4
+order number guest2,0,train,train-0-4
+order number entry3,0,train,train-0-4
+order number search4,0,train,train-0-4
+order number item5,0,train,train-0-4
+order number alex6,0,train,train-0-4
+order number riley7,0,train,train-0-4
+order number guest8,0,train,train-0-4
+order number entry9,0,train,train-0-4
+order number search10,0,train,train-0-4
+order number item11,0,train,train-0-4
+order number alex12,0,train,train-0-4
+order number riley13,0,train,train-0-4
+order number guest14,0,train,train-0-4
+order number entry15,0,train,train-0-4
+order number search16,0,train,train-0-4
+order number item17,0,train,train-0-4
+order number alex18,0,train,train-0-4
+order number riley19,0,train,train-0-4
+order number guest20,0,train,train-0-4
+order number entry21,0,train,train-0-4
+order number search22,0,train,train-0-4
+order number item23,0,train,train-0-4
+order number alex24,0,train,train-0-4
+order number riley25,0,train,train-0-4
+order number guest26,0,train,train-0-4
+order number entry27,0,train,train-0-4
+order number search28,0,train,train-0-4
+order number item29,0,train,train-0-4
+learn SQL select alex0,0,train,train-0-5
+learn SQL select riley1,0,train,train-0-5
+learn SQL select guest2,0,train,train-0-5
+learn SQL select entry3,0,train,train-0-5
+learn SQL select search4,0,train,train-0-5
+learn SQL select item5,0,train,train-0-5
+learn SQL select alex6,0,train,train-0-5
+learn SQL select riley7,0,train,train-0-5
+learn SQL select guest8,0,train,train-0-5
+learn SQL select entry9,0,train,train-0-5
+learn SQL select search10,0,train,train-0-5
+learn SQL select item11,0,train,train-0-5
+learn SQL select alex12,0,train,train-0-5
+learn SQL select riley13,0,train,train-0-5
+learn SQL select guest14,0,train,train-0-5
+learn SQL select entry15,0,train,train-0-5
+learn SQL select search16,0,train,train-0-5
+learn SQL select item17,0,train,train-0-5
+learn SQL select alex18,0,train,train-0-5
+learn SQL select riley19,0,train,train-0-5
+learn SQL select guest20,0,train,train-0-5
+learn SQL select entry21,0,train,train-0-5
+learn SQL select search22,0,train,train-0-5
+learn SQL select item23,0,train,train-0-5
+learn SQL select alex24,0,train,train-0-5
+learn SQL select riley25,0,train,train-0-5
+learn SQL select guest26,0,train,train-0-5
+learn SQL select entry27,0,train,train-0-5
+learn SQL select search28,0,train,train-0-5
+learn SQL select item29,0,train,train-0-5
+sleep advice for alex0,0,train,train-0-6
+sleep advice for riley1,0,train,train-0-6
+sleep advice for guest2,0,train,train-0-6
+sleep advice for entry3,0,train,train-0-6
+sleep advice for search4,0,train,train-0-6
+sleep advice for item5,0,train,train-0-6
+sleep advice for alex6,0,train,train-0-6
+sleep advice for riley7,0,train,train-0-6
+sleep advice for guest8,0,train,train-0-6
+sleep advice for entry9,0,train,train-0-6
+sleep advice for search10,0,train,train-0-6
+sleep advice for item11,0,train,train-0-6
+sleep advice for alex12,0,train,train-0-6
+sleep advice for riley13,0,train,train-0-6
+sleep advice for guest14,0,train,train-0-6
+sleep advice for entry15,0,train,train-0-6
+sleep advice for search16,0,train,train-0-6
+sleep advice for item17,0,train,train-0-6
+sleep advice for alex18,0,train,train-0-6
+sleep advice for riley19,0,train,train-0-6
+sleep advice for guest20,0,train,train-0-6
+sleep advice for entry21,0,train,train-0-6
+sleep advice for search22,0,train,train-0-6
+sleep advice for item23,0,train,train-0-6
+sleep advice for alex24,0,train,train-0-6
+sleep advice for riley25,0,train,train-0-6
+sleep advice for guest26,0,train,train-0-6
+sleep advice for entry27,0,train,train-0-6
+sleep advice for search28,0,train,train-0-6
+sleep advice for item29,0,train,train-0-6
+sleep better tonight alex0,0,train,train-0-7
+sleep better tonight riley1,0,train,train-0-7
+sleep better tonight guest2,0,train,train-0-7
+sleep better tonight entry3,0,train,train-0-7
+sleep better tonight search4,0,train,train-0-7
+sleep better tonight item5,0,train,train-0-7
+sleep better tonight alex6,0,train,train-0-7
+sleep better tonight riley7,0,train,train-0-7
+sleep better tonight guest8,0,train,train-0-7
+sleep better tonight entry9,0,train,train-0-7
+sleep better tonight search10,0,train,train-0-7
+sleep better tonight item11,0,train,train-0-7
+sleep better tonight alex12,0,train,train-0-7
+sleep better tonight riley13,0,train,train-0-7
+sleep better tonight guest14,0,train,train-0-7
+sleep better tonight entry15,0,train,train-0-7
+sleep better tonight search16,0,train,train-0-7
+sleep better tonight item17,0,train,train-0-7
+sleep better tonight alex18,0,train,train-0-7
+sleep better tonight riley19,0,train,train-0-7
+sleep better tonight guest20,0,train,train-0-7
+sleep better tonight entry21,0,train,train-0-7
+sleep better tonight search22,0,train,train-0-7
+sleep better tonight item23,0,train,train-0-7
+sleep better tonight alex24,0,train,train-0-7
+sleep better tonight riley25,0,train,train-0-7
+sleep better tonight guest26,0,train,train-0-7
+sleep better tonight entry27,0,train,train-0-7
+sleep better tonight search28,0,train,train-0-7
+sleep better tonight item29,0,train,train-0-7
+union membership alex0,0,train,train-0-8
+union membership riley1,0,train,train-0-8
+union membership guest2,0,train,train-0-8
+union membership entry3,0,train,train-0-8
+union membership search4,0,train,train-0-8
+union membership item5,0,train,train-0-8
+union membership alex6,0,train,train-0-8
+union membership riley7,0,train,train-0-8
+union membership guest8,0,train,train-0-8
+union membership entry9,0,train,train-0-8
+union membership search10,0,train,train-0-8
+union membership item11,0,train,train-0-8
+union membership alex12,0,train,train-0-8
+union membership riley13,0,train,train-0-8
+union membership guest14,0,train,train-0-8
+union membership entry15,0,train,train-0-8
+union membership search16,0,train,train-0-8
+union membership item17,0,train,train-0-8
+union membership alex18,0,train,train-0-8
+union membership riley19,0,train,train-0-8
+union membership guest20,0,train,train-0-8
+union membership entry21,0,train,train-0-8
+union membership search22,0,train,train-0-8
+union membership item23,0,train,train-0-8
+union membership alex24,0,train,train-0-8
+union membership riley25,0,train,train-0-8
+union membership guest26,0,train,train-0-8
+union membership entry27,0,train,train-0-8
+union membership search28,0,train,train-0-8
+union membership item29,0,train,train-0-8
+delete my shopping cart alex0,0,train,train-0-9
+delete my shopping cart riley1,0,train,train-0-9
+delete my shopping cart guest2,0,train,train-0-9
+delete my shopping cart entry3,0,train,train-0-9
+delete my shopping cart search4,0,train,train-0-9
+delete my shopping cart item5,0,train,train-0-9
+delete my shopping cart alex6,0,train,train-0-9
+delete my shopping cart riley7,0,train,train-0-9
+delete my shopping cart guest8,0,train,train-0-9
+delete my shopping cart entry9,0,train,train-0-9
+delete my shopping cart search10,0,train,train-0-9
+delete my shopping cart item11,0,train,train-0-9
+delete my shopping cart alex12,0,train,train-0-9
+delete my shopping cart riley13,0,train,train-0-9
+delete my shopping cart guest14,0,train,train-0-9
+delete my shopping cart entry15,0,train,train-0-9
+delete my shopping cart search16,0,train,train-0-9
+delete my shopping cart item17,0,train,train-0-9
+delete my shopping cart alex18,0,train,train-0-9
+delete my shopping cart riley19,0,train,train-0-9
+delete my shopping cart guest20,0,train,train-0-9
+delete my shopping cart entry21,0,train,train-0-9
+delete my shopping cart search22,0,train,train-0-9
+delete my shopping cart item23,0,train,train-0-9
+delete my shopping cart alex24,0,train,train-0-9
+delete my shopping cart riley25,0,train,train-0-9
+delete my shopping cart guest26,0,train,train-0-9
+delete my shopping cart entry27,0,train,train-0-9
+delete my shopping cart search28,0,train,train-0-9
+delete my shopping cart item29,0,train,train-0-9
+drop shipping guide alex0,0,train,train-0-10
+drop shipping guide riley1,0,train,train-0-10
+drop shipping guide guest2,0,train,train-0-10
+drop shipping guide entry3,0,train,train-0-10
+drop shipping guide search4,0,train,train-0-10
+drop shipping guide item5,0,train,train-0-10
+drop shipping guide alex6,0,train,train-0-10
+drop shipping guide riley7,0,train,train-0-10
+drop shipping guide guest8,0,train,train-0-10
+drop shipping guide entry9,0,train,train-0-10
+drop shipping guide search10,0,train,train-0-10
+drop shipping guide item11,0,train,train-0-10
+drop shipping guide alex12,0,train,train-0-10
+drop shipping guide riley13,0,train,train-0-10
+drop shipping guide guest14,0,train,train-0-10
+drop shipping guide entry15,0,train,train-0-10
+drop shipping guide search16,0,train,train-0-10
+drop shipping guide item17,0,train,train-0-10
+drop shipping guide alex18,0,train,train-0-10
+drop shipping guide riley19,0,train,train-0-10
+drop shipping guide guest20,0,train,train-0-10
+drop shipping guide entry21,0,train,train-0-10
+drop shipping guide search22,0,train,train-0-10
+drop shipping guide item23,0,train,train-0-10
+drop shipping guide alex24,0,train,train-0-10
+drop shipping guide riley25,0,train,train-0-10
+drop shipping guide guest26,0,train,train-0-10
+drop shipping guide entry27,0,train,train-0-10
+drop shipping guide search28,0,train,train-0-10
+drop shipping guide item29,0,train,train-0-10
+benchmark the laptop alex0,0,train,train-0-11
+benchmark the laptop riley1,0,train,train-0-11
+benchmark the laptop guest2,0,train,train-0-11
+benchmark the laptop entry3,0,train,train-0-11
+benchmark the laptop search4,0,train,train-0-11
+benchmark the laptop item5,0,train,train-0-11
+benchmark the laptop alex6,0,train,train-0-11
+benchmark the laptop riley7,0,train,train-0-11
+benchmark the laptop guest8,0,train,train-0-11
+benchmark the laptop entry9,0,train,train-0-11
+benchmark the laptop search10,0,train,train-0-11
+benchmark the laptop item11,0,train,train-0-11
+benchmark the laptop alex12,0,train,train-0-11
+benchmark the laptop riley13,0,train,train-0-11
+benchmark the laptop guest14,0,train,train-0-11
+benchmark the laptop entry15,0,train,train-0-11
+benchmark the laptop search16,0,train,train-0-11
+benchmark the laptop item17,0,train,train-0-11
+benchmark the laptop alex18,0,train,train-0-11
+benchmark the laptop riley19,0,train,train-0-11
+benchmark the laptop guest20,0,train,train-0-11
+benchmark the laptop entry21,0,train,train-0-11
+benchmark the laptop search22,0,train,train-0-11
+benchmark the laptop item23,0,train,train-0-11
+benchmark the laptop alex24,0,train,train-0-11
+benchmark the laptop riley25,0,train,train-0-11
+benchmark the laptop guest26,0,train,train-0-11
+benchmark the laptop entry27,0,train,train-0-11
+benchmark the laptop search28,0,train,train-0-11
+benchmark the laptop item29,0,train,train-0-11
+select a gift alex0,0,train,train-0-12
+select a gift riley1,0,train,train-0-12
+select a gift guest2,0,train,train-0-12
+select a gift entry3,0,train,train-0-12
+select a gift search4,0,train,train-0-12
+select a gift item5,0,train,train-0-12
+select a gift alex6,0,train,train-0-12
+select a gift riley7,0,train,train-0-12
+select a gift guest8,0,train,train-0-12
+select a gift entry9,0,train,train-0-12
+select a gift search10,0,train,train-0-12
+select a gift item11,0,train,train-0-12
+select a gift alex12,0,train,train-0-12
+select a gift riley13,0,train,train-0-12
+select a gift guest14,0,train,train-0-12
+select a gift entry15,0,train,train-0-12
+select a gift search16,0,train,train-0-12
+select a gift item17,0,train,train-0-12
+select a gift alex18,0,train,train-0-12
+select a gift riley19,0,train,train-0-12
+select a gift guest20,0,train,train-0-12
+select a gift entry21,0,train,train-0-12
+select a gift search22,0,train,train-0-12
+select a gift item23,0,train,train-0-12
+select a gift alex24,0,train,train-0-12
+select a gift riley25,0,train,train-0-12
+select a gift guest26,0,train,train-0-12
+select a gift entry27,0,train,train-0-12
+select a gift search28,0,train,train-0-12
+select a gift item29,0,train,train-0-12
+D'Angelo alex0,0,train,train-0-13
+D'Angelo riley1,0,train,train-0-13
+D'Angelo guest2,0,train,train-0-13
+D'Angelo entry3,0,train,train-0-13
+D'Angelo search4,0,train,train-0-13
+D'Angelo item5,0,train,train-0-13
+D'Angelo alex6,0,train,train-0-13
+D'Angelo riley7,0,train,train-0-13
+D'Angelo guest8,0,train,train-0-13
+D'Angelo entry9,0,train,train-0-13
+D'Angelo search10,0,train,train-0-13
+D'Angelo item11,0,train,train-0-13
+D'Angelo alex12,0,train,train-0-13
+D'Angelo riley13,0,train,train-0-13
+D'Angelo guest14,0,train,train-0-13
+D'Angelo entry15,0,train,train-0-13
+D'Angelo search16,0,train,train-0-13
+D'Angelo item17,0,train,train-0-13
+D'Angelo alex18,0,train,train-0-13
+D'Angelo riley19,0,train,train-0-13
+D'Angelo guest20,0,train,train-0-13
+D'Angelo entry21,0,train,train-0-13
+D'Angelo search22,0,train,train-0-13
+D'Angelo item23,0,train,train-0-13
+D'Angelo alex24,0,train,train-0-13
+D'Angelo riley25,0,train,train-0-13
+D'Angelo guest26,0,train,train-0-13
+D'Angelo entry27,0,train,train-0-13
+D'Angelo search28,0,train,train-0-13
+D'Angelo item29,0,train,train-0-13
+please update my address alex0,0,train,train-0-14
+please update my address riley1,0,train,train-0-14
+please update my address guest2,0,train,train-0-14
+please update my address entry3,0,train,train-0-14
+please update my address search4,0,train,train-0-14
+please update my address item5,0,train,train-0-14
+please update my address alex6,0,train,train-0-14
+please update my address riley7,0,train,train-0-14
+please update my address guest8,0,train,train-0-14
+please update my address entry9,0,train,train-0-14
+please update my address search10,0,train,train-0-14
+please update my address item11,0,train,train-0-14
+please update my address alex12,0,train,train-0-14
+please update my address riley13,0,train,train-0-14
+please update my address guest14,0,train,train-0-14
+please update my address entry15,0,train,train-0-14
+please update my address search16,0,train,train-0-14
+please update my address item17,0,train,train-0-14
+please update my address alex18,0,train,train-0-14
+please update my address riley19,0,train,train-0-14
+please update my address guest20,0,train,train-0-14
+please update my address entry21,0,train,train-0-14
+please update my address search22,0,train,train-0-14
+please update my address item23,0,train,train-0-14
+please update my address alex24,0,train,train-0-14
+please update my address riley25,0,train,train-0-14
+please update my address guest26,0,train,train-0-14
+please update my address entry27,0,train,train-0-14
+please update my address search28,0,train,train-0-14
+please update my address item29,0,train,train-0-14
+wait for delivery alex0,0,train,train-0-15
+wait for delivery riley1,0,train,train-0-15
+wait for delivery guest2,0,train,train-0-15
+wait for delivery entry3,0,train,train-0-15
+wait for delivery search4,0,train,train-0-15
+wait for delivery item5,0,train,train-0-15
+wait for delivery alex6,0,train,train-0-15
+wait for delivery riley7,0,train,train-0-15
+wait for delivery guest8,0,train,train-0-15
+wait for delivery entry9,0,train,train-0-15
+wait for delivery search10,0,train,train-0-15
+wait for delivery item11,0,train,train-0-15
+wait for delivery alex12,0,train,train-0-15
+wait for delivery riley13,0,train,train-0-15
+wait for delivery guest14,0,train,train-0-15
+wait for delivery entry15,0,train,train-0-15
+wait for delivery search16,0,train,train-0-15
+wait for delivery item17,0,train,train-0-15
+wait for delivery alex18,0,train,train-0-15
+wait for delivery riley19,0,train,train-0-15
+wait for delivery guest20,0,train,train-0-15
+wait for delivery entry21,0,train,train-0-15
+wait for delivery search22,0,train,train-0-15
+wait for delivery item23,0,train,train-0-15
+wait for delivery alex24,0,train,train-0-15
+wait for delivery riley25,0,train,train-0-15
+wait for delivery guest26,0,train,train-0-15
+wait for delivery entry27,0,train,train-0-15
+wait for delivery search28,0,train,train-0-15
+wait for delivery item29,0,train,train-0-15
+one or two tickets alex0,0,train,train-0-16
+one or two tickets riley1,0,train,train-0-16
+one or two tickets guest2,0,train,train-0-16
+one or two tickets entry3,0,train,train-0-16
+one or two tickets search4,0,train,train-0-16
+one or two tickets item5,0,train,train-0-16
+one or two tickets alex6,0,train,train-0-16
+one or two tickets riley7,0,train,train-0-16
+one or two tickets guest8,0,train,train-0-16
+one or two tickets entry9,0,train,train-0-16
+one or two tickets search10,0,train,train-0-16
+one or two tickets item11,0,train,train-0-16
+one or two tickets alex12,0,train,train-0-16
+one or two tickets riley13,0,train,train-0-16
+one or two tickets guest14,0,train,train-0-16
+one or two tickets entry15,0,train,train-0-16
+one or two tickets search16,0,train,train-0-16
+one or two tickets item17,0,train,train-0-16
+one or two tickets alex18,0,train,train-0-16
+one or two tickets riley19,0,train,train-0-16
+one or two tickets guest20,0,train,train-0-16
+one or two tickets entry21,0,train,train-0-16
+one or two tickets search22,0,train,train-0-16
+one or two tickets item23,0,train,train-0-16
+one or two tickets alex24,0,train,train-0-16
+one or two tickets riley25,0,train,train-0-16
+one or two tickets guest26,0,train,train-0-16
+one or two tickets entry27,0,train,train-0-16
+one or two tickets search28,0,train,train-0-16
+one or two tickets item29,0,train,train-0-16
+research information schema alex0,0,train,train-0-17
+research information schema riley1,0,train,train-0-17
+research information schema guest2,0,train,train-0-17
+research information schema entry3,0,train,train-0-17
+research information schema search4,0,train,train-0-17
+research information schema item5,0,train,train-0-17
+research information schema alex6,0,train,train-0-17
+research information schema riley7,0,train,train-0-17
+research information schema guest8,0,train,train-0-17
+research information schema entry9,0,train,train-0-17
+research information schema search10,0,train,train-0-17
+research information schema item11,0,train,train-0-17
+research information schema alex12,0,train,train-0-17
+research information schema riley13,0,train,train-0-17
+research information schema guest14,0,train,train-0-17
+research information schema entry15,0,train,train-0-17
+research information schema search16,0,train,train-0-17
+research information schema item17,0,train,train-0-17
+research information schema alex18,0,train,train-0-17
+research information schema riley19,0,train,train-0-17
+research information schema guest20,0,train,train-0-17
+research information schema entry21,0,train,train-0-17
+research information schema search22,0,train,train-0-17
+research information schema item23,0,train,train-0-17
+research information schema alex24,0,train,train-0-17
+research information schema riley25,0,train,train-0-17
+research information schema guest26,0,train,train-0-17
+research information schema entry27,0,train,train-0-17
+research information schema search28,0,train,train-0-17
+research information schema item29,0,train,train-0-17
+how to use UNION SELECT in SQL alex0,0,train,train-0-18
+how to use UNION SELECT in SQL riley1,0,train,train-0-18
+how to use UNION SELECT in SQL guest2,0,train,train-0-18
+how to use UNION SELECT in SQL entry3,0,train,train-0-18
+how to use UNION SELECT in SQL search4,0,train,train-0-18
+how to use UNION SELECT in SQL item5,0,train,train-0-18
+how to use UNION SELECT in SQL alex6,0,train,train-0-18
+how to use UNION SELECT in SQL riley7,0,train,train-0-18
+how to use UNION SELECT in SQL guest8,0,train,train-0-18
+how to use UNION SELECT in SQL entry9,0,train,train-0-18
+how to use UNION SELECT in SQL search10,0,train,train-0-18
+how to use UNION SELECT in SQL item11,0,train,train-0-18
+how to use UNION SELECT in SQL alex12,0,train,train-0-18
+how to use UNION SELECT in SQL riley13,0,train,train-0-18
+how to use UNION SELECT in SQL guest14,0,train,train-0-18
+how to use UNION SELECT in SQL entry15,0,train,train-0-18
+how to use UNION SELECT in SQL search16,0,train,train-0-18
+how to use UNION SELECT in SQL item17,0,train,train-0-18
+how to use UNION SELECT in SQL alex18,0,train,train-0-18
+how to use UNION SELECT in SQL riley19,0,train,train-0-18
+how to use UNION SELECT in SQL guest20,0,train,train-0-18
+how to use UNION SELECT in SQL entry21,0,train,train-0-18
+how to use UNION SELECT in SQL search22,0,train,train-0-18
+how to use UNION SELECT in SQL item23,0,train,train-0-18
+how to use UNION SELECT in SQL alex24,0,train,train-0-18
+how to use UNION SELECT in SQL riley25,0,train,train-0-18
+how to use UNION SELECT in SQL guest26,0,train,train-0-18
+how to use UNION SELECT in SQL entry27,0,train,train-0-18
+how to use UNION SELECT in SQL search28,0,train,train-0-18
+how to use UNION SELECT in SQL item29,0,train,train-0-18
+database tutorial SELECT * FROM products alex0,0,train,train-0-19
+database tutorial SELECT * FROM products riley1,0,train,train-0-19
+database tutorial SELECT * FROM products guest2,0,train,train-0-19
+database tutorial SELECT * FROM products entry3,0,train,train-0-19
+database tutorial SELECT * FROM products search4,0,train,train-0-19
+database tutorial SELECT * FROM products item5,0,train,train-0-19
+database tutorial SELECT * FROM products alex6,0,train,train-0-19
+database tutorial SELECT * FROM products riley7,0,train,train-0-19
+database tutorial SELECT * FROM products guest8,0,train,train-0-19
+database tutorial SELECT * FROM products entry9,0,train,train-0-19
+database tutorial SELECT * FROM products search10,0,train,train-0-19
+database tutorial SELECT * FROM products item11,0,train,train-0-19
+database tutorial SELECT * FROM products alex12,0,train,train-0-19
+database tutorial SELECT * FROM products riley13,0,train,train-0-19
+database tutorial SELECT * FROM products guest14,0,train,train-0-19
+database tutorial SELECT * FROM products entry15,0,train,train-0-19
+database tutorial SELECT * FROM products search16,0,train,train-0-19
+database tutorial SELECT * FROM products item17,0,train,train-0-19
+database tutorial SELECT * FROM products alex18,0,train,train-0-19
+database tutorial SELECT * FROM products riley19,0,train,train-0-19
+database tutorial SELECT * FROM products guest20,0,train,train-0-19
+database tutorial SELECT * FROM products entry21,0,train,train-0-19
+database tutorial SELECT * FROM products search22,0,train,train-0-19
+database tutorial SELECT * FROM products item23,0,train,train-0-19
+database tutorial SELECT * FROM products alex24,0,train,train-0-19
+database tutorial SELECT * FROM products riley25,0,train,train-0-19
+database tutorial SELECT * FROM products guest26,0,train,train-0-19
+database tutorial SELECT * FROM products entry27,0,train,train-0-19
+database tutorial SELECT * FROM products search28,0,train,train-0-19
+database tutorial SELECT * FROM products item29,0,train,train-0-19
+notes about OR 1=1 in database class alex0,0,train,train-0-20
+notes about OR 1=1 in database class riley1,0,train,train-0-20
+notes about OR 1=1 in database class guest2,0,train,train-0-20
+notes about OR 1=1 in database class entry3,0,train,train-0-20
+notes about OR 1=1 in database class search4,0,train,train-0-20
+notes about OR 1=1 in database class item5,0,train,train-0-20
+notes about OR 1=1 in database class alex6,0,train,train-0-20
+notes about OR 1=1 in database class riley7,0,train,train-0-20
+notes about OR 1=1 in database class guest8,0,train,train-0-20
+notes about OR 1=1 in database class entry9,0,train,train-0-20
+notes about OR 1=1 in database class search10,0,train,train-0-20
+notes about OR 1=1 in database class item11,0,train,train-0-20
+notes about OR 1=1 in database class alex12,0,train,train-0-20
+notes about OR 1=1 in database class riley13,0,train,train-0-20
+notes about OR 1=1 in database class guest14,0,train,train-0-20
+notes about OR 1=1 in database class entry15,0,train,train-0-20
+notes about OR 1=1 in database class search16,0,train,train-0-20
+notes about OR 1=1 in database class item17,0,train,train-0-20
+notes about OR 1=1 in database class alex18,0,train,train-0-20
+notes about OR 1=1 in database class riley19,0,train,train-0-20
+notes about OR 1=1 in database class guest20,0,train,train-0-20
+notes about OR 1=1 in database class entry21,0,train,train-0-20
+notes about OR 1=1 in database class search22,0,train,train-0-20
+notes about OR 1=1 in database class item23,0,train,train-0-20
+notes about OR 1=1 in database class alex24,0,train,train-0-20
+notes about OR 1=1 in database class riley25,0,train,train-0-20
+notes about OR 1=1 in database class guest26,0,train,train-0-20
+notes about OR 1=1 in database class entry27,0,train,train-0-20
+notes about OR 1=1 in database class search28,0,train,train-0-20
+notes about OR 1=1 in database class item29,0,train,train-0-20
+normal search 1=1 alex0,0,train,train-0-21
+normal search 1=1 riley1,0,train,train-0-21
+normal search 1=1 guest2,0,train,train-0-21
+normal search 1=1 entry3,0,train,train-0-21
+normal search 1=1 search4,0,train,train-0-21
+normal search 1=1 item5,0,train,train-0-21
+normal search 1=1 alex6,0,train,train-0-21
+normal search 1=1 riley7,0,train,train-0-21
+normal search 1=1 guest8,0,train,train-0-21
+normal search 1=1 entry9,0,train,train-0-21
+normal search 1=1 search10,0,train,train-0-21
+normal search 1=1 item11,0,train,train-0-21
+normal search 1=1 alex12,0,train,train-0-21
+normal search 1=1 riley13,0,train,train-0-21
+normal search 1=1 guest14,0,train,train-0-21
+normal search 1=1 entry15,0,train,train-0-21
+normal search 1=1 search16,0,train,train-0-21
+normal search 1=1 item17,0,train,train-0-21
+normal search 1=1 alex18,0,train,train-0-21
+normal search 1=1 riley19,0,train,train-0-21
+normal search 1=1 guest20,0,train,train-0-21
+normal search 1=1 entry21,0,train,train-0-21
+normal search 1=1 search22,0,train,train-0-21
+normal search 1=1 item23,0,train,train-0-21
+normal search 1=1 alex24,0,train,train-0-21
+normal search 1=1 riley25,0,train,train-0-21
+normal search 1=1 guest26,0,train,train-0-21
+normal search 1=1 entry27,0,train,train-0-21
+normal search 1=1 search28,0,train,train-0-21
+normal search 1=1 item29,0,train,train-0-21
+please sleep(5) before retrying alex0,0,train,train-0-22
+please sleep(5) before retrying riley1,0,train,train-0-22
+please sleep(5) before retrying guest2,0,train,train-0-22
+please sleep(5) before retrying entry3,0,train,train-0-22
+please sleep(5) before retrying search4,0,train,train-0-22
+please sleep(5) before retrying item5,0,train,train-0-22
+please sleep(5) before retrying alex6,0,train,train-0-22
+please sleep(5) before retrying riley7,0,train,train-0-22
+please sleep(5) before retrying guest8,0,train,train-0-22
+please sleep(5) before retrying entry9,0,train,train-0-22
+please sleep(5) before retrying search10,0,train,train-0-22
+please sleep(5) before retrying item11,0,train,train-0-22
+please sleep(5) before retrying alex12,0,train,train-0-22
+please sleep(5) before retrying riley13,0,train,train-0-22
+please sleep(5) before retrying guest14,0,train,train-0-22
+please sleep(5) before retrying entry15,0,train,train-0-22
+please sleep(5) before retrying search16,0,train,train-0-22
+please sleep(5) before retrying item17,0,train,train-0-22
+please sleep(5) before retrying alex18,0,train,train-0-22
+please sleep(5) before retrying riley19,0,train,train-0-22
+please sleep(5) before retrying guest20,0,train,train-0-22
+please sleep(5) before retrying entry21,0,train,train-0-22
+please sleep(5) before retrying search22,0,train,train-0-22
+please sleep(5) before retrying item23,0,train,train-0-22
+please sleep(5) before retrying alex24,0,train,train-0-22
+please sleep(5) before retrying riley25,0,train,train-0-22
+please sleep(5) before retrying guest26,0,train,train-0-22
+please sleep(5) before retrying entry27,0,train,train-0-22
+please sleep(5) before retrying search28,0,train,train-0-22
+please sleep(5) before retrying item29,0,train,train-0-22
+shipping reference alex0; thanks,0,train,train-0-23
+shipping reference riley1; thanks,0,train,train-0-23
+shipping reference guest2; thanks,0,train,train-0-23
+shipping reference entry3; thanks,0,train,train-0-23
+shipping reference search4; thanks,0,train,train-0-23
+shipping reference item5; thanks,0,train,train-0-23
+shipping reference alex6; thanks,0,train,train-0-23
+shipping reference riley7; thanks,0,train,train-0-23
+shipping reference guest8; thanks,0,train,train-0-23
+shipping reference entry9; thanks,0,train,train-0-23
+shipping reference search10; thanks,0,train,train-0-23
+shipping reference item11; thanks,0,train,train-0-23
+shipping reference alex12; thanks,0,train,train-0-23
+shipping reference riley13; thanks,0,train,train-0-23
+shipping reference guest14; thanks,0,train,train-0-23
+shipping reference entry15; thanks,0,train,train-0-23
+shipping reference search16; thanks,0,train,train-0-23
+shipping reference item17; thanks,0,train,train-0-23
+shipping reference alex18; thanks,0,train,train-0-23
+shipping reference riley19; thanks,0,train,train-0-23
+shipping reference guest20; thanks,0,train,train-0-23
+shipping reference entry21; thanks,0,train,train-0-23
+shipping reference search22; thanks,0,train,train-0-23
+shipping reference item23; thanks,0,train,train-0-23
+shipping reference alex24; thanks,0,train,train-0-23
+shipping reference riley25; thanks,0,train,train-0-23
+shipping reference guest26; thanks,0,train,train-0-23
+shipping reference entry27; thanks,0,train,train-0-23
+shipping reference search28; thanks,0,train,train-0-23
+shipping reference item29; thanks,0,train,train-0-23
+summer clothes alex0,0,train,train-0-24
+summer clothes riley1,0,train,train-0-24
+summer clothes guest2,0,train,train-0-24
+summer clothes entry3,0,train,train-0-24
+summer clothes search4,0,train,train-0-24
+summer clothes item5,0,train,train-0-24
+summer clothes alex6,0,train,train-0-24
+summer clothes riley7,0,train,train-0-24
+summer clothes guest8,0,train,train-0-24
+summer clothes entry9,0,train,train-0-24
+summer clothes search10,0,train,train-0-24
+summer clothes item11,0,train,train-0-24
+summer clothes alex12,0,train,train-0-24
+summer clothes riley13,0,train,train-0-24
+summer clothes guest14,0,train,train-0-24
+summer clothes entry15,0,train,train-0-24
+summer clothes search16,0,train,train-0-24
+summer clothes item17,0,train,train-0-24
+summer clothes alex18,0,train,train-0-24
+summer clothes riley19,0,train,train-0-24
+summer clothes guest20,0,train,train-0-24
+summer clothes entry21,0,train,train-0-24
+summer clothes search22,0,train,train-0-24
+summer clothes item23,0,train,train-0-24
+summer clothes alex24,0,train,train-0-24
+summer clothes riley25,0,train,train-0-24
+summer clothes guest26,0,train,train-0-24
+summer clothes entry27,0,train,train-0-24
+summer clothes search28,0,train,train-0-24
+summer clothes item29,0,train,train-0-24
+SQL course alex0,0,train,train-0-25
+SQL course riley1,0,train,train-0-25
+SQL course guest2,0,train,train-0-25
+SQL course entry3,0,train,train-0-25
+SQL course search4,0,train,train-0-25
+SQL course item5,0,train,train-0-25
+SQL course alex6,0,train,train-0-25
+SQL course riley7,0,train,train-0-25
+SQL course guest8,0,train,train-0-25
+SQL course entry9,0,train,train-0-25
+SQL course search10,0,train,train-0-25
+SQL course item11,0,train,train-0-25
+SQL course alex12,0,train,train-0-25
+SQL course riley13,0,train,train-0-25
+SQL course guest14,0,train,train-0-25
+SQL course entry15,0,train,train-0-25
+SQL course search16,0,train,train-0-25
+SQL course item17,0,train,train-0-25
+SQL course alex18,0,train,train-0-25
+SQL course riley19,0,train,train-0-25
+SQL course guest20,0,train,train-0-25
+SQL course entry21,0,train,train-0-25
+SQL course search22,0,train,train-0-25
+SQL course item23,0,train,train-0-25
+SQL course alex24,0,train,train-0-25
+SQL course riley25,0,train,train-0-25
+SQL course guest26,0,train,train-0-25
+SQL course entry27,0,train,train-0-25
+SQL course search28,0,train,train-0-25
+SQL course item29,0,train,train-0-25
+alex0' OR 1=1 --,1,train,train-1-0
+riley1' OR 1=1 --,1,train,train-1-0
+guest2' OR 1=1 --,1,train,train-1-0
+entry3' OR 1=1 --,1,train,train-1-0
+search4' OR 1=1 --,1,train,train-1-0
+item5' OR 1=1 --,1,train,train-1-0
+alex6' OR 1=1 --,1,train,train-1-0
+riley7' OR 1=1 --,1,train,train-1-0
+guest8' OR 1=1 --,1,train,train-1-0
+entry9' OR 1=1 --,1,train,train-1-0
+search10' OR 1=1 --,1,train,train-1-0
+item11' OR 1=1 --,1,train,train-1-0
+alex12' OR 1=1 --,1,train,train-1-0
+riley13' OR 1=1 --,1,train,train-1-0
+guest14' OR 1=1 --,1,train,train-1-0
+entry15' OR 1=1 --,1,train,train-1-0
+search16' OR 1=1 --,1,train,train-1-0
+item17' OR 1=1 --,1,train,train-1-0
+alex18' OR 1=1 --,1,train,train-1-0
+riley19' OR 1=1 --,1,train,train-1-0
+guest20' OR 1=1 --,1,train,train-1-0
+entry21' OR 1=1 --,1,train,train-1-0
+search22' OR 1=1 --,1,train,train-1-0
+item23' OR 1=1 --,1,train,train-1-0
+alex24' OR 1=1 --,1,train,train-1-0
+riley25' OR 1=1 --,1,train,train-1-0
+guest26' OR 1=1 --,1,train,train-1-0
+entry27' OR 1=1 --,1,train,train-1-0
+search28' OR 1=1 --,1,train,train-1-0
+item29' OR 1=1 --,1,train,train-1-0
+alex0' OR 'a'='a' --,1,train,train-1-1
+riley1' OR 'a'='a' --,1,train,train-1-1
+guest2' OR 'a'='a' --,1,train,train-1-1
+entry3' OR 'a'='a' --,1,train,train-1-1
+search4' OR 'a'='a' --,1,train,train-1-1
+item5' OR 'a'='a' --,1,train,train-1-1
+alex6' OR 'a'='a' --,1,train,train-1-1
+riley7' OR 'a'='a' --,1,train,train-1-1
+guest8' OR 'a'='a' --,1,train,train-1-1
+entry9' OR 'a'='a' --,1,train,train-1-1
+search10' OR 'a'='a' --,1,train,train-1-1
+item11' OR 'a'='a' --,1,train,train-1-1
+alex12' OR 'a'='a' --,1,train,train-1-1
+riley13' OR 'a'='a' --,1,train,train-1-1
+guest14' OR 'a'='a' --,1,train,train-1-1
+entry15' OR 'a'='a' --,1,train,train-1-1
+search16' OR 'a'='a' --,1,train,train-1-1
+item17' OR 'a'='a' --,1,train,train-1-1
+alex18' OR 'a'='a' --,1,train,train-1-1
+riley19' OR 'a'='a' --,1,train,train-1-1
+guest20' OR 'a'='a' --,1,train,train-1-1
+entry21' OR 'a'='a' --,1,train,train-1-1
+search22' OR 'a'='a' --,1,train,train-1-1
+item23' OR 'a'='a' --,1,train,train-1-1
+alex24' OR 'a'='a' --,1,train,train-1-1
+riley25' OR 'a'='a' --,1,train,train-1-1
+guest26' OR 'a'='a' --,1,train,train-1-1
+entry27' OR 'a'='a' --,1,train,train-1-1
+search28' OR 'a'='a' --,1,train,train-1-1
+item29' OR 'a'='a' --,1,train,train-1-1
+"alex0' UNION SELECT username,password FROM users --",1,train,train-1-2
+"riley1' UNION SELECT username,password FROM users --",1,train,train-1-2
+"guest2' UNION SELECT username,password FROM users --",1,train,train-1-2
+"entry3' UNION SELECT username,password FROM users --",1,train,train-1-2
+"search4' UNION SELECT username,password FROM users --",1,train,train-1-2
+"item5' UNION SELECT username,password FROM users --",1,train,train-1-2
+"alex6' UNION SELECT username,password FROM users --",1,train,train-1-2
+"riley7' UNION SELECT username,password FROM users --",1,train,train-1-2
+"guest8' UNION SELECT username,password FROM users --",1,train,train-1-2
+"entry9' UNION SELECT username,password FROM users --",1,train,train-1-2
+"search10' UNION SELECT username,password FROM users --",1,train,train-1-2
+"item11' UNION SELECT username,password FROM users --",1,train,train-1-2
+"alex12' UNION SELECT username,password FROM users --",1,train,train-1-2
+"riley13' UNION SELECT username,password FROM users --",1,train,train-1-2
+"guest14' UNION SELECT username,password FROM users --",1,train,train-1-2
+"entry15' UNION SELECT username,password FROM users --",1,train,train-1-2
+"search16' UNION SELECT username,password FROM users --",1,train,train-1-2
+"item17' UNION SELECT username,password FROM users --",1,train,train-1-2
+"alex18' UNION SELECT username,password FROM users --",1,train,train-1-2
+"riley19' UNION SELECT username,password FROM users --",1,train,train-1-2
+"guest20' UNION SELECT username,password FROM users --",1,train,train-1-2
+"entry21' UNION SELECT username,password FROM users --",1,train,train-1-2
+"search22' UNION SELECT username,password FROM users --",1,train,train-1-2
+"item23' UNION SELECT username,password FROM users --",1,train,train-1-2
+"alex24' UNION SELECT username,password FROM users --",1,train,train-1-2
+"riley25' UNION SELECT username,password FROM users --",1,train,train-1-2
+"guest26' UNION SELECT username,password FROM users --",1,train,train-1-2
+"entry27' UNION SELECT username,password FROM users --",1,train,train-1-2
+"search28' UNION SELECT username,password FROM users --",1,train,train-1-2
+"item29' UNION SELECT username,password FROM users --",1,train,train-1-2
+alex0; DROP TABLE accounts,1,train,train-1-3
+riley1; DROP TABLE accounts,1,train,train-1-3
+guest2; DROP TABLE accounts,1,train,train-1-3
+entry3; DROP TABLE accounts,1,train,train-1-3
+search4; DROP TABLE accounts,1,train,train-1-3
+item5; DROP TABLE accounts,1,train,train-1-3
+alex6; DROP TABLE accounts,1,train,train-1-3
+riley7; DROP TABLE accounts,1,train,train-1-3
+guest8; DROP TABLE accounts,1,train,train-1-3
+entry9; DROP TABLE accounts,1,train,train-1-3
+search10; DROP TABLE accounts,1,train,train-1-3
+item11; DROP TABLE accounts,1,train,train-1-3
+alex12; DROP TABLE accounts,1,train,train-1-3
+riley13; DROP TABLE accounts,1,train,train-1-3
+guest14; DROP TABLE accounts,1,train,train-1-3
+entry15; DROP TABLE accounts,1,train,train-1-3
+search16; DROP TABLE accounts,1,train,train-1-3
+item17; DROP TABLE accounts,1,train,train-1-3
+alex18; DROP TABLE accounts,1,train,train-1-3
+riley19; DROP TABLE accounts,1,train,train-1-3
+guest20; DROP TABLE accounts,1,train,train-1-3
+entry21; DROP TABLE accounts,1,train,train-1-3
+search22; DROP TABLE accounts,1,train,train-1-3
+item23; DROP TABLE accounts,1,train,train-1-3
+alex24; DROP TABLE accounts,1,train,train-1-3
+riley25; DROP TABLE accounts,1,train,train-1-3
+guest26; DROP TABLE accounts,1,train,train-1-3
+entry27; DROP TABLE accounts,1,train,train-1-3
+search28; DROP TABLE accounts,1,train,train-1-3
+item29; DROP TABLE accounts,1,train,train-1-3
+alex0; DELETE FROM customers,1,train,train-1-4
+riley1; DELETE FROM customers,1,train,train-1-4
+guest2; DELETE FROM customers,1,train,train-1-4
+entry3; DELETE FROM customers,1,train,train-1-4
+search4; DELETE FROM customers,1,train,train-1-4
+item5; DELETE FROM customers,1,train,train-1-4
+alex6; DELETE FROM customers,1,train,train-1-4
+riley7; DELETE FROM customers,1,train,train-1-4
+guest8; DELETE FROM customers,1,train,train-1-4
+entry9; DELETE FROM customers,1,train,train-1-4
+search10; DELETE FROM customers,1,train,train-1-4
+item11; DELETE FROM customers,1,train,train-1-4
+alex12; DELETE FROM customers,1,train,train-1-4
+riley13; DELETE FROM customers,1,train,train-1-4
+guest14; DELETE FROM customers,1,train,train-1-4
+entry15; DELETE FROM customers,1,train,train-1-4
+search16; DELETE FROM customers,1,train,train-1-4
+item17; DELETE FROM customers,1,train,train-1-4
+alex18; DELETE FROM customers,1,train,train-1-4
+riley19; DELETE FROM customers,1,train,train-1-4
+guest20; DELETE FROM customers,1,train,train-1-4
+entry21; DELETE FROM customers,1,train,train-1-4
+search22; DELETE FROM customers,1,train,train-1-4
+item23; DELETE FROM customers,1,train,train-1-4
+alex24; DELETE FROM customers,1,train,train-1-4
+riley25; DELETE FROM customers,1,train,train-1-4
+guest26; DELETE FROM customers,1,train,train-1-4
+entry27; DELETE FROM customers,1,train,train-1-4
+search28; DELETE FROM customers,1,train,train-1-4
+item29; DELETE FROM customers,1,train,train-1-4
+alex0' AND SLEEP(5) --,1,train,train-1-5
+riley1' AND SLEEP(5) --,1,train,train-1-5
+guest2' AND SLEEP(5) --,1,train,train-1-5
+entry3' AND SLEEP(5) --,1,train,train-1-5
+search4' AND SLEEP(5) --,1,train,train-1-5
+item5' AND SLEEP(5) --,1,train,train-1-5
+alex6' AND SLEEP(5) --,1,train,train-1-5
+riley7' AND SLEEP(5) --,1,train,train-1-5
+guest8' AND SLEEP(5) --,1,train,train-1-5
+entry9' AND SLEEP(5) --,1,train,train-1-5
+search10' AND SLEEP(5) --,1,train,train-1-5
+item11' AND SLEEP(5) --,1,train,train-1-5
+alex12' AND SLEEP(5) --,1,train,train-1-5
+riley13' AND SLEEP(5) --,1,train,train-1-5
+guest14' AND SLEEP(5) --,1,train,train-1-5
+entry15' AND SLEEP(5) --,1,train,train-1-5
+search16' AND SLEEP(5) --,1,train,train-1-5
+item17' AND SLEEP(5) --,1,train,train-1-5
+alex18' AND SLEEP(5) --,1,train,train-1-5
+riley19' AND SLEEP(5) --,1,train,train-1-5
+guest20' AND SLEEP(5) --,1,train,train-1-5
+entry21' AND SLEEP(5) --,1,train,train-1-5
+search22' AND SLEEP(5) --,1,train,train-1-5
+item23' AND SLEEP(5) --,1,train,train-1-5
+alex24' AND SLEEP(5) --,1,train,train-1-5
+riley25' AND SLEEP(5) --,1,train,train-1-5
+guest26' AND SLEEP(5) --,1,train,train-1-5
+entry27' AND SLEEP(5) --,1,train,train-1-5
+search28' AND SLEEP(5) --,1,train,train-1-5
+item29' AND SLEEP(5) --,1,train,train-1-5
+alex0'#,1,train,train-1-6
+riley1'#,1,train,train-1-6
+guest2'#,1,train,train-1-6
+entry3'#,1,train,train-1-6
+search4'#,1,train,train-1-6
+item5'#,1,train,train-1-6
+alex6'#,1,train,train-1-6
+riley7'#,1,train,train-1-6
+guest8'#,1,train,train-1-6
+entry9'#,1,train,train-1-6
+search10'#,1,train,train-1-6
+item11'#,1,train,train-1-6
+alex12'#,1,train,train-1-6
+riley13'#,1,train,train-1-6
+guest14'#,1,train,train-1-6
+entry15'#,1,train,train-1-6
+search16'#,1,train,train-1-6
+item17'#,1,train,train-1-6
+alex18'#,1,train,train-1-6
+riley19'#,1,train,train-1-6
+guest20'#,1,train,train-1-6
+entry21'#,1,train,train-1-6
+search22'#,1,train,train-1-6
+item23'#,1,train,train-1-6
+alex24'#,1,train,train-1-6
+riley25'#,1,train,train-1-6
+guest26'#,1,train,train-1-6
+entry27'#,1,train,train-1-6
+search28'#,1,train,train-1-6
+item29'#,1,train,train-1-6
+alex0' AND pg_sleep(3) --,1,train,train-1-7
+riley1' AND pg_sleep(3) --,1,train,train-1-7
+guest2' AND pg_sleep(3) --,1,train,train-1-7
+entry3' AND pg_sleep(3) --,1,train,train-1-7
+search4' AND pg_sleep(3) --,1,train,train-1-7
+item5' AND pg_sleep(3) --,1,train,train-1-7
+alex6' AND pg_sleep(3) --,1,train,train-1-7
+riley7' AND pg_sleep(3) --,1,train,train-1-7
+guest8' AND pg_sleep(3) --,1,train,train-1-7
+entry9' AND pg_sleep(3) --,1,train,train-1-7
+search10' AND pg_sleep(3) --,1,train,train-1-7
+item11' AND pg_sleep(3) --,1,train,train-1-7
+alex12' AND pg_sleep(3) --,1,train,train-1-7
+riley13' AND pg_sleep(3) --,1,train,train-1-7
+guest14' AND pg_sleep(3) --,1,train,train-1-7
+entry15' AND pg_sleep(3) --,1,train,train-1-7
+search16' AND pg_sleep(3) --,1,train,train-1-7
+item17' AND pg_sleep(3) --,1,train,train-1-7
+alex18' AND pg_sleep(3) --,1,train,train-1-7
+riley19' AND pg_sleep(3) --,1,train,train-1-7
+guest20' AND pg_sleep(3) --,1,train,train-1-7
+entry21' AND pg_sleep(3) --,1,train,train-1-7
+search22' AND pg_sleep(3) --,1,train,train-1-7
+item23' AND pg_sleep(3) --,1,train,train-1-7
+alex24' AND pg_sleep(3) --,1,train,train-1-7
+riley25' AND pg_sleep(3) --,1,train,train-1-7
+guest26' AND pg_sleep(3) --,1,train,train-1-7
+entry27' AND pg_sleep(3) --,1,train,train-1-7
+search28' AND pg_sleep(3) --,1,train,train-1-7
+item29' AND pg_sleep(3) --,1,train,train-1-7
+alex0'/**/OR/**/2=2--,1,train,train-1-8
+riley1'/**/OR/**/2=2--,1,train,train-1-8
+guest2'/**/OR/**/2=2--,1,train,train-1-8
+entry3'/**/OR/**/2=2--,1,train,train-1-8
+search4'/**/OR/**/2=2--,1,train,train-1-8
+item5'/**/OR/**/2=2--,1,train,train-1-8
+alex6'/**/OR/**/2=2--,1,train,train-1-8
+riley7'/**/OR/**/2=2--,1,train,train-1-8
+guest8'/**/OR/**/2=2--,1,train,train-1-8
+entry9'/**/OR/**/2=2--,1,train,train-1-8
+search10'/**/OR/**/2=2--,1,train,train-1-8
+item11'/**/OR/**/2=2--,1,train,train-1-8
+alex12'/**/OR/**/2=2--,1,train,train-1-8
+riley13'/**/OR/**/2=2--,1,train,train-1-8
+guest14'/**/OR/**/2=2--,1,train,train-1-8
+entry15'/**/OR/**/2=2--,1,train,train-1-8
+search16'/**/OR/**/2=2--,1,train,train-1-8
+item17'/**/OR/**/2=2--,1,train,train-1-8
+alex18'/**/OR/**/2=2--,1,train,train-1-8
+riley19'/**/OR/**/2=2--,1,train,train-1-8
+guest20'/**/OR/**/2=2--,1,train,train-1-8
+entry21'/**/OR/**/2=2--,1,train,train-1-8
+search22'/**/OR/**/2=2--,1,train,train-1-8
+item23'/**/OR/**/2=2--,1,train,train-1-8
+alex24'/**/OR/**/2=2--,1,train,train-1-8
+riley25'/**/OR/**/2=2--,1,train,train-1-8
+guest26'/**/OR/**/2=2--,1,train,train-1-8
+entry27'/**/OR/**/2=2--,1,train,train-1-8
+search28'/**/OR/**/2=2--,1,train,train-1-8
+item29'/**/OR/**/2=2--,1,train,train-1-8
+alex0' UNION ALL SELECT NULL --,1,train,train-1-9
+riley1' UNION ALL SELECT NULL --,1,train,train-1-9
+guest2' UNION ALL SELECT NULL --,1,train,train-1-9
+entry3' UNION ALL SELECT NULL --,1,train,train-1-9
+search4' UNION ALL SELECT NULL --,1,train,train-1-9
+item5' UNION ALL SELECT NULL --,1,train,train-1-9
+alex6' UNION ALL SELECT NULL --,1,train,train-1-9
+riley7' UNION ALL SELECT NULL --,1,train,train-1-9
+guest8' UNION ALL SELECT NULL --,1,train,train-1-9
+entry9' UNION ALL SELECT NULL --,1,train,train-1-9
+search10' UNION ALL SELECT NULL --,1,train,train-1-9
+item11' UNION ALL SELECT NULL --,1,train,train-1-9
+alex12' UNION ALL SELECT NULL --,1,train,train-1-9
+riley13' UNION ALL SELECT NULL --,1,train,train-1-9
+guest14' UNION ALL SELECT NULL --,1,train,train-1-9
+entry15' UNION ALL SELECT NULL --,1,train,train-1-9
+search16' UNION ALL SELECT NULL --,1,train,train-1-9
+item17' UNION ALL SELECT NULL --,1,train,train-1-9
+alex18' UNION ALL SELECT NULL --,1,train,train-1-9
+riley19' UNION ALL SELECT NULL --,1,train,train-1-9
+guest20' UNION ALL SELECT NULL --,1,train,train-1-9
+entry21' UNION ALL SELECT NULL --,1,train,train-1-9
+search22' UNION ALL SELECT NULL --,1,train,train-1-9
+item23' UNION ALL SELECT NULL --,1,train,train-1-9
+alex24' UNION ALL SELECT NULL --,1,train,train-1-9
+riley25' UNION ALL SELECT NULL --,1,train,train-1-9
+guest26' UNION ALL SELECT NULL --,1,train,train-1-9
+entry27' UNION ALL SELECT NULL --,1,train,train-1-9
+search28' UNION ALL SELECT NULL --,1,train,train-1-9
+item29' UNION ALL SELECT NULL --,1,train,train-1-9
+alex0' OR TRUE --,1,train,train-1-10
+riley1' OR TRUE --,1,train,train-1-10
+guest2' OR TRUE --,1,train,train-1-10
+entry3' OR TRUE --,1,train,train-1-10
+search4' OR TRUE --,1,train,train-1-10
+item5' OR TRUE --,1,train,train-1-10
+alex6' OR TRUE --,1,train,train-1-10
+riley7' OR TRUE --,1,train,train-1-10
+guest8' OR TRUE --,1,train,train-1-10
+entry9' OR TRUE --,1,train,train-1-10
+search10' OR TRUE --,1,train,train-1-10
+item11' OR TRUE --,1,train,train-1-10
+alex12' OR TRUE --,1,train,train-1-10
+riley13' OR TRUE --,1,train,train-1-10
+guest14' OR TRUE --,1,train,train-1-10
+entry15' OR TRUE --,1,train,train-1-10
+search16' OR TRUE --,1,train,train-1-10
+item17' OR TRUE --,1,train,train-1-10
+alex18' OR TRUE --,1,train,train-1-10
+riley19' OR TRUE --,1,train,train-1-10
+guest20' OR TRUE --,1,train,train-1-10
+entry21' OR TRUE --,1,train,train-1-10
+search22' OR TRUE --,1,train,train-1-10
+item23' OR TRUE --,1,train,train-1-10
+alex24' OR TRUE --,1,train,train-1-10
+riley25' OR TRUE --,1,train,train-1-10
+guest26' OR TRUE --,1,train,train-1-10
+entry27' OR TRUE --,1,train,train-1-10
+search28' OR TRUE --,1,train,train-1-10
+item29' OR TRUE --,1,train,train-1-10
+alex0' AND FALSE --,1,train,train-1-11
+riley1' AND FALSE --,1,train,train-1-11
+guest2' AND FALSE --,1,train,train-1-11
+entry3' AND FALSE --,1,train,train-1-11
+search4' AND FALSE --,1,train,train-1-11
+item5' AND FALSE --,1,train,train-1-11
+alex6' AND FALSE --,1,train,train-1-11
+riley7' AND FALSE --,1,train,train-1-11
+guest8' AND FALSE --,1,train,train-1-11
+entry9' AND FALSE --,1,train,train-1-11
+search10' AND FALSE --,1,train,train-1-11
+item11' AND FALSE --,1,train,train-1-11
+alex12' AND FALSE --,1,train,train-1-11
+riley13' AND FALSE --,1,train,train-1-11
+guest14' AND FALSE --,1,train,train-1-11
+entry15' AND FALSE --,1,train,train-1-11
+search16' AND FALSE --,1,train,train-1-11
+item17' AND FALSE --,1,train,train-1-11
+alex18' AND FALSE --,1,train,train-1-11
+riley19' AND FALSE --,1,train,train-1-11
+guest20' AND FALSE --,1,train,train-1-11
+entry21' AND FALSE --,1,train,train-1-11
+search22' AND FALSE --,1,train,train-1-11
+item23' AND FALSE --,1,train,train-1-11
+alex24' AND FALSE --,1,train,train-1-11
+riley25' AND FALSE --,1,train,train-1-11
+guest26' AND FALSE --,1,train,train-1-11
+entry27' AND FALSE --,1,train,train-1-11
+search28' AND FALSE --,1,train,train-1-11
+item29' AND FALSE --,1,train,train-1-11
+alex0' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+riley1' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+guest2' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+entry3' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+search4' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+item5' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+alex6' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+riley7' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+guest8' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+entry9' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+search10' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+item11' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+alex12' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+riley13' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+guest14' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+entry15' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+search16' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+item17' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+alex18' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+riley19' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+guest20' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+entry21' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+search22' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+item23' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+alex24' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+riley25' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+guest26' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+entry27' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+search28' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+item29' OR 1 BETWEEN 0 AND 2 --,1,train,train-1-12
+alex0' OR 5>2 --,1,train,train-1-13
+riley1' OR 5>2 --,1,train,train-1-13
+guest2' OR 5>2 --,1,train,train-1-13
+entry3' OR 5>2 --,1,train,train-1-13
+search4' OR 5>2 --,1,train,train-1-13
+item5' OR 5>2 --,1,train,train-1-13
+alex6' OR 5>2 --,1,train,train-1-13
+riley7' OR 5>2 --,1,train,train-1-13
+guest8' OR 5>2 --,1,train,train-1-13
+entry9' OR 5>2 --,1,train,train-1-13
+search10' OR 5>2 --,1,train,train-1-13
+item11' OR 5>2 --,1,train,train-1-13
+alex12' OR 5>2 --,1,train,train-1-13
+riley13' OR 5>2 --,1,train,train-1-13
+guest14' OR 5>2 --,1,train,train-1-13
+entry15' OR 5>2 --,1,train,train-1-13
+search16' OR 5>2 --,1,train,train-1-13
+item17' OR 5>2 --,1,train,train-1-13
+alex18' OR 5>2 --,1,train,train-1-13
+riley19' OR 5>2 --,1,train,train-1-13
+guest20' OR 5>2 --,1,train,train-1-13
+entry21' OR 5>2 --,1,train,train-1-13
+search22' OR 5>2 --,1,train,train-1-13
+item23' OR 5>2 --,1,train,train-1-13
+alex24' OR 5>2 --,1,train,train-1-13
+riley25' OR 5>2 --,1,train,train-1-13
+guest26' OR 5>2 --,1,train,train-1-13
+entry27' OR 5>2 --,1,train,train-1-13
+search28' OR 5>2 --,1,train,train-1-13
+item29' OR 5>2 --,1,train,train-1-13
+alex0' OR 'a' LIKE 'a' --,1,train,train-1-14
+riley1' OR 'a' LIKE 'a' --,1,train,train-1-14
+guest2' OR 'a' LIKE 'a' --,1,train,train-1-14
+entry3' OR 'a' LIKE 'a' --,1,train,train-1-14
+search4' OR 'a' LIKE 'a' --,1,train,train-1-14
+item5' OR 'a' LIKE 'a' --,1,train,train-1-14
+alex6' OR 'a' LIKE 'a' --,1,train,train-1-14
+riley7' OR 'a' LIKE 'a' --,1,train,train-1-14
+guest8' OR 'a' LIKE 'a' --,1,train,train-1-14
+entry9' OR 'a' LIKE 'a' --,1,train,train-1-14
+search10' OR 'a' LIKE 'a' --,1,train,train-1-14
+item11' OR 'a' LIKE 'a' --,1,train,train-1-14
+alex12' OR 'a' LIKE 'a' --,1,train,train-1-14
+riley13' OR 'a' LIKE 'a' --,1,train,train-1-14
+guest14' OR 'a' LIKE 'a' --,1,train,train-1-14
+entry15' OR 'a' LIKE 'a' --,1,train,train-1-14
+search16' OR 'a' LIKE 'a' --,1,train,train-1-14
+item17' OR 'a' LIKE 'a' --,1,train,train-1-14
+alex18' OR 'a' LIKE 'a' --,1,train,train-1-14
+riley19' OR 'a' LIKE 'a' --,1,train,train-1-14
+guest20' OR 'a' LIKE 'a' --,1,train,train-1-14
+entry21' OR 'a' LIKE 'a' --,1,train,train-1-14
+search22' OR 'a' LIKE 'a' --,1,train,train-1-14
+item23' OR 'a' LIKE 'a' --,1,train,train-1-14
+alex24' OR 'a' LIKE 'a' --,1,train,train-1-14
+riley25' OR 'a' LIKE 'a' --,1,train,train-1-14
+guest26' OR 'a' LIKE 'a' --,1,train,train-1-14
+entry27' OR 'a' LIKE 'a' --,1,train,train-1-14
+search28' OR 'a' LIKE 'a' --,1,train,train-1-14
+item29' OR 'a' LIKE 'a' --,1,train,train-1-14
+alex0' || 'a'='a' --,1,train,train-1-15
+riley1' || 'a'='a' --,1,train,train-1-15
+guest2' || 'a'='a' --,1,train,train-1-15
+entry3' || 'a'='a' --,1,train,train-1-15
+search4' || 'a'='a' --,1,train,train-1-15
+item5' || 'a'='a' --,1,train,train-1-15
+alex6' || 'a'='a' --,1,train,train-1-15
+riley7' || 'a'='a' --,1,train,train-1-15
+guest8' || 'a'='a' --,1,train,train-1-15
+entry9' || 'a'='a' --,1,train,train-1-15
+search10' || 'a'='a' --,1,train,train-1-15
+item11' || 'a'='a' --,1,train,train-1-15
+alex12' || 'a'='a' --,1,train,train-1-15
+riley13' || 'a'='a' --,1,train,train-1-15
+guest14' || 'a'='a' --,1,train,train-1-15
+entry15' || 'a'='a' --,1,train,train-1-15
+search16' || 'a'='a' --,1,train,train-1-15
+item17' || 'a'='a' --,1,train,train-1-15
+alex18' || 'a'='a' --,1,train,train-1-15
+riley19' || 'a'='a' --,1,train,train-1-15
+guest20' || 'a'='a' --,1,train,train-1-15
+entry21' || 'a'='a' --,1,train,train-1-15
+search22' || 'a'='a' --,1,train,train-1-15
+item23' || 'a'='a' --,1,train,train-1-15
+alex24' || 'a'='a' --,1,train,train-1-15
+riley25' || 'a'='a' --,1,train,train-1-15
+guest26' || 'a'='a' --,1,train,train-1-15
+entry27' || 'a'='a' --,1,train,train-1-15
+search28' || 'a'='a' --,1,train,train-1-15
+item29' || 'a'='a' --,1,train,train-1-15
+alex0' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+riley1' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+guest2' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+entry3' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+search4' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+item5' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+alex6' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+riley7' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+guest8' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+entry9' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+search10' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+item11' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+alex12' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+riley13' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+guest14' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+entry15' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+search16' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+item17' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+alex18' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+riley19' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+guest20' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+entry21' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+search22' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+item23' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+alex24' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+riley25' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+guest26' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+entry27' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+search28' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+item29' AND EXISTS(SELECT 1 FROM users) --,1,train,train-1-16
+"alex0' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"riley1' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"guest2' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"entry3' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"search4' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"item5' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"alex6' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"riley7' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"guest8' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"entry9' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"search10' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"item11' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"alex12' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"riley13' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"guest14' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"entry15' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"search16' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"item17' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"alex18' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"riley19' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"guest20' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"entry21' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"search22' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"item23' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"alex24' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"riley25' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"guest26' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"entry27' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"search28' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+"item29' AND ASCII(SUBSTRING(password,1,1))>64 --",1,train,train-1-17
+alex0'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+riley1'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+guest2'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+entry3'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+search4'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+item5'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+alex6'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+riley7'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+guest8'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+entry9'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+search10'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+item11'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+alex12'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+riley13'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+guest14'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+entry15'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+search16'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+item17'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+alex18'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+riley19'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+guest20'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+entry21'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+search22'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+item23'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+alex24'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+riley25'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+guest26'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+entry27'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+search28'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+item29'; UPDATE accounts SET role='admin' --,1,train,train-1-18
+"alex0'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"riley1'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"guest2'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"entry3'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"search4'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"item5'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"alex6'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"riley7'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"guest8'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"entry9'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"search10'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"item11'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"alex12'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"riley13'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"guest14'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"entry15'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"search16'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"item17'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"alex18'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"riley19'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"guest20'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"entry21'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"search22'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"item23'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"alex24'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"riley25'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"guest26'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"entry27'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"search28'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"item29'; INSERT INTO users VALUES(1,'evil') --",1,train,train-1-19
+"alex0' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"riley1' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"guest2' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"entry3' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"search4' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"item5' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"alex6' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"riley7' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"guest8' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"entry9' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"search10' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"item11' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"alex12' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"riley13' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"guest14' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"entry15' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"search16' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"item17' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"alex18' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"riley19' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"guest20' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"entry21' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"search22' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"item23' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"alex24' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"riley25' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"guest26' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"entry27' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"search28' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+"item29' AND EXTRACTVALUE(1,CONCAT(0x7e,VERSION())) --",1,train,train-1-20
+alex0' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+riley1' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+guest2' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+entry3' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+search4' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+item5' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+alex6' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+riley7' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+guest8' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+entry9' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+search10' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+item11' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+alex12' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+riley13' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+guest14' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+entry15' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+search16' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+item17' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+alex18' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+riley19' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+guest20' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+entry21' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+search22' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+item23' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+alex24' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+riley25' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+guest26' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+entry27' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+search28' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+item29' AND LOAD_FILE('/etc/passwd') --,1,train,train-1-21
+alex0' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+riley1' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+guest2' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+entry3' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+search4' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+item5' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+alex6' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+riley7' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+guest8' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+entry9' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+search10' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+item11' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+alex12' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+riley13' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+guest14' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+entry15' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+search16' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+item17' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+alex18' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+riley19' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+guest20' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+entry21' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+search22' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+item23' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+alex24' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+riley25' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+guest26' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+entry27' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+search28' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+item29' UNION SELECT table_name FROM information_schema.tables --,1,train,train-1-22
+alex0'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+riley1'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+guest2'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+entry3'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+search4'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+item5'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+alex6'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+riley7'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+guest8'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+entry9'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+search10'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+item11'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+alex12'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+riley13'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+guest14'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+entry15'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+search16'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+item17'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+alex18'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+riley19'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+guest20'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+entry21'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+search22'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+item23'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+alex24'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+riley25'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+guest26'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+entry27'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+search28'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+item29'; WAITFOR DELAY '00:00:05' --,1,train,train-1-23
+"alex0' OR 7 IN (7,8) --",1,train,train-1-24
+"riley1' OR 7 IN (7,8) --",1,train,train-1-24
+"guest2' OR 7 IN (7,8) --",1,train,train-1-24
+"entry3' OR 7 IN (7,8) --",1,train,train-1-24
+"search4' OR 7 IN (7,8) --",1,train,train-1-24
+"item5' OR 7 IN (7,8) --",1,train,train-1-24
+"alex6' OR 7 IN (7,8) --",1,train,train-1-24
+"riley7' OR 7 IN (7,8) --",1,train,train-1-24
+"guest8' OR 7 IN (7,8) --",1,train,train-1-24
+"entry9' OR 7 IN (7,8) --",1,train,train-1-24
+"search10' OR 7 IN (7,8) --",1,train,train-1-24
+"item11' OR 7 IN (7,8) --",1,train,train-1-24
+"alex12' OR 7 IN (7,8) --",1,train,train-1-24
+"riley13' OR 7 IN (7,8) --",1,train,train-1-24
+"guest14' OR 7 IN (7,8) --",1,train,train-1-24
+"entry15' OR 7 IN (7,8) --",1,train,train-1-24
+"search16' OR 7 IN (7,8) --",1,train,train-1-24
+"item17' OR 7 IN (7,8) --",1,train,train-1-24
+"alex18' OR 7 IN (7,8) --",1,train,train-1-24
+"riley19' OR 7 IN (7,8) --",1,train,train-1-24
+"guest20' OR 7 IN (7,8) --",1,train,train-1-24
+"entry21' OR 7 IN (7,8) --",1,train,train-1-24
+"search22' OR 7 IN (7,8) --",1,train,train-1-24
+"item23' OR 7 IN (7,8) --",1,train,train-1-24
+"alex24' OR 7 IN (7,8) --",1,train,train-1-24
+"riley25' OR 7 IN (7,8) --",1,train,train-1-24
+"guest26' OR 7 IN (7,8) --",1,train,train-1-24
+"entry27' OR 7 IN (7,8) --",1,train,train-1-24
+"search28' OR 7 IN (7,8) --",1,train,train-1-24
+"item29' OR 7 IN (7,8) --",1,train,train-1-24
+alex0' OR NOT FALSE --,1,train,train-1-25
+riley1' OR NOT FALSE --,1,train,train-1-25
+guest2' OR NOT FALSE --,1,train,train-1-25
+entry3' OR NOT FALSE --,1,train,train-1-25
+search4' OR NOT FALSE --,1,train,train-1-25
+item5' OR NOT FALSE --,1,train,train-1-25
+alex6' OR NOT FALSE --,1,train,train-1-25
+riley7' OR NOT FALSE --,1,train,train-1-25
+guest8' OR NOT FALSE --,1,train,train-1-25
+entry9' OR NOT FALSE --,1,train,train-1-25
+search10' OR NOT FALSE --,1,train,train-1-25
+item11' OR NOT FALSE --,1,train,train-1-25
+alex12' OR NOT FALSE --,1,train,train-1-25
+riley13' OR NOT FALSE --,1,train,train-1-25
+guest14' OR NOT FALSE --,1,train,train-1-25
+entry15' OR NOT FALSE --,1,train,train-1-25
+search16' OR NOT FALSE --,1,train,train-1-25
+item17' OR NOT FALSE --,1,train,train-1-25
+alex18' OR NOT FALSE --,1,train,train-1-25
+riley19' OR NOT FALSE --,1,train,train-1-25
+guest20' OR NOT FALSE --,1,train,train-1-25
+entry21' OR NOT FALSE --,1,train,train-1-25
+search22' OR NOT FALSE --,1,train,train-1-25
+item23' OR NOT FALSE --,1,train,train-1-25
+alex24' OR NOT FALSE --,1,train,train-1-25
+riley25' OR NOT FALSE --,1,train,train-1-25
+guest26' OR NOT FALSE --,1,train,train-1-25
+entry27' OR NOT FALSE --,1,train,train-1-25
+search28' OR NOT FALSE --,1,train,train-1-25
+item29' OR NOT FALSE --,1,train,train-1-25
+delivery for alex0,0,validation,validation-0-0
+delivery for riley1,0,validation,validation-0-0
+delivery for guest2,0,validation,validation-0-0
+delivery for entry3,0,validation,validation-0-0
+delivery for search4,0,validation,validation-0-0
+delivery for item5,0,validation,validation-0-0
+delivery for alex6,0,validation,validation-0-0
+delivery for riley7,0,validation,validation-0-0
+delivery for guest8,0,validation,validation-0-0
+delivery for entry9,0,validation,validation-0-0
+delivery for search10,0,validation,validation-0-0
+delivery for item11,0,validation,validation-0-0
+sleep recommendations alex0,0,validation,validation-0-1
+sleep recommendations riley1,0,validation,validation-0-1
+sleep recommendations guest2,0,validation,validation-0-1
+sleep recommendations entry3,0,validation,validation-0-1
+sleep recommendations search4,0,validation,validation-0-1
+sleep recommendations item5,0,validation,validation-0-1
+sleep recommendations alex6,0,validation,validation-0-1
+sleep recommendations riley7,0,validation,validation-0-1
+sleep recommendations guest8,0,validation,validation-0-1
+sleep recommendations entry9,0,validation,validation-0-1
+sleep recommendations search10,0,validation,validation-0-1
+sleep recommendations item11,0,validation,validation-0-1
+union event at alex0,0,validation,validation-0-2
+union event at riley1,0,validation,validation-0-2
+union event at guest2,0,validation,validation-0-2
+union event at entry3,0,validation,validation-0-2
+union event at search4,0,validation,validation-0-2
+union event at item5,0,validation,validation-0-2
+union event at alex6,0,validation,validation-0-2
+union event at riley7,0,validation,validation-0-2
+union event at guest8,0,validation,validation-0-2
+union event at entry9,0,validation,validation-0-2
+union event at search10,0,validation,validation-0-2
+union event at item11,0,validation,validation-0-2
+O'Connor alex0,0,validation,validation-0-3
+O'Connor riley1,0,validation,validation-0-3
+O'Connor guest2,0,validation,validation-0-3
+O'Connor entry3,0,validation,validation-0-3
+O'Connor search4,0,validation,validation-0-3
+O'Connor item5,0,validation,validation-0-3
+O'Connor alex6,0,validation,validation-0-3
+O'Connor riley7,0,validation,validation-0-3
+O'Connor guest8,0,validation,validation-0-3
+O'Connor entry9,0,validation,validation-0-3
+O'Connor search10,0,validation,validation-0-3
+O'Connor item11,0,validation,validation-0-3
+delete saved search alex0,0,validation,validation-0-4
+delete saved search riley1,0,validation,validation-0-4
+delete saved search guest2,0,validation,validation-0-4
+delete saved search entry3,0,validation,validation-0-4
+delete saved search search4,0,validation,validation-0-4
+delete saved search item5,0,validation,validation-0-4
+delete saved search alex6,0,validation,validation-0-4
+delete saved search riley7,0,validation,validation-0-4
+delete saved search guest8,0,validation,validation-0-4
+delete saved search entry9,0,validation,validation-0-4
+delete saved search search10,0,validation,validation-0-4
+delete saved search item11,0,validation,validation-0-4
+SQL lesson: UNION ALL SELECT alex0,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT riley1,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT guest2,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT entry3,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT search4,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT item5,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT alex6,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT riley7,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT guest8,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT entry9,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT search10,0,validation,validation-0-5
+SQL lesson: UNION ALL SELECT item11,0,validation,validation-0-5
+waitfor delay example in a textbook alex0,0,validation,validation-0-6
+waitfor delay example in a textbook riley1,0,validation,validation-0-6
+waitfor delay example in a textbook guest2,0,validation,validation-0-6
+waitfor delay example in a textbook entry3,0,validation,validation-0-6
+waitfor delay example in a textbook search4,0,validation,validation-0-6
+waitfor delay example in a textbook item5,0,validation,validation-0-6
+waitfor delay example in a textbook alex6,0,validation,validation-0-6
+waitfor delay example in a textbook riley7,0,validation,validation-0-6
+waitfor delay example in a textbook guest8,0,validation,validation-0-6
+waitfor delay example in a textbook entry9,0,validation,validation-0-6
+waitfor delay example in a textbook search10,0,validation,validation-0-6
+waitfor delay example in a textbook item11,0,validation,validation-0-6
+notes on Boolean conditions OR 2=2 alex0,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 riley1,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 guest2,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 entry3,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 search4,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 item5,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 alex6,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 riley7,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 guest8,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 entry9,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 search10,0,validation,validation-0-7
+notes on Boolean conditions OR 2=2 item11,0,validation,validation-0-7
+benchmark(1000) function explanation alex0,0,validation,validation-0-8
+benchmark(1000) function explanation riley1,0,validation,validation-0-8
+benchmark(1000) function explanation guest2,0,validation,validation-0-8
+benchmark(1000) function explanation entry3,0,validation,validation-0-8
+benchmark(1000) function explanation search4,0,validation,validation-0-8
+benchmark(1000) function explanation item5,0,validation,validation-0-8
+benchmark(1000) function explanation alex6,0,validation,validation-0-8
+benchmark(1000) function explanation riley7,0,validation,validation-0-8
+benchmark(1000) function explanation guest8,0,validation,validation-0-8
+benchmark(1000) function explanation entry9,0,validation,validation-0-8
+benchmark(1000) function explanation search10,0,validation,validation-0-8
+benchmark(1000) function explanation item11,0,validation,validation-0-8
+running shoes alex0,0,validation,validation-0-9
+running shoes riley1,0,validation,validation-0-9
+running shoes guest2,0,validation,validation-0-9
+running shoes entry3,0,validation,validation-0-9
+running shoes search4,0,validation,validation-0-9
+running shoes item5,0,validation,validation-0-9
+running shoes alex6,0,validation,validation-0-9
+running shoes riley7,0,validation,validation-0-9
+running shoes guest8,0,validation,validation-0-9
+running shoes entry9,0,validation,validation-0-9
+running shoes search10,0,validation,validation-0-9
+running shoes item11,0,validation,validation-0-9
+alex0' oR 7=7 --,1,validation,validation-1-0
+riley1' oR 7=7 --,1,validation,validation-1-0
+guest2' oR 7=7 --,1,validation,validation-1-0
+entry3' oR 7=7 --,1,validation,validation-1-0
+search4' oR 7=7 --,1,validation,validation-1-0
+item5' oR 7=7 --,1,validation,validation-1-0
+alex6' oR 7=7 --,1,validation,validation-1-0
+riley7' oR 7=7 --,1,validation,validation-1-0
+guest8' oR 7=7 --,1,validation,validation-1-0
+entry9' oR 7=7 --,1,validation,validation-1-0
+search10' oR 7=7 --,1,validation,validation-1-0
+item11' oR 7=7 --,1,validation,validation-1-0
+alex0' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+riley1' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+guest2' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+entry3' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+search4' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+item5' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+alex6' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+riley7' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+guest8' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+entry9' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+search10' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+item11' UNION ALL SELECT email FROM members --,1,validation,validation-1-1
+alex0; DELETE FROM inventory,1,validation,validation-1-2
+riley1; DELETE FROM inventory,1,validation,validation-1-2
+guest2; DELETE FROM inventory,1,validation,validation-1-2
+entry3; DELETE FROM inventory,1,validation,validation-1-2
+search4; DELETE FROM inventory,1,validation,validation-1-2
+item5; DELETE FROM inventory,1,validation,validation-1-2
+alex6; DELETE FROM inventory,1,validation,validation-1-2
+riley7; DELETE FROM inventory,1,validation,validation-1-2
+guest8; DELETE FROM inventory,1,validation,validation-1-2
+entry9; DELETE FROM inventory,1,validation,validation-1-2
+search10; DELETE FROM inventory,1,validation,validation-1-2
+item11; DELETE FROM inventory,1,validation,validation-1-2
+alex0' AND pg_sleep(8) --,1,validation,validation-1-3
+riley1' AND pg_sleep(8) --,1,validation,validation-1-3
+guest2' AND pg_sleep(8) --,1,validation,validation-1-3
+entry3' AND pg_sleep(8) --,1,validation,validation-1-3
+search4' AND pg_sleep(8) --,1,validation,validation-1-3
+item5' AND pg_sleep(8) --,1,validation,validation-1-3
+alex6' AND pg_sleep(8) --,1,validation,validation-1-3
+riley7' AND pg_sleep(8) --,1,validation,validation-1-3
+guest8' AND pg_sleep(8) --,1,validation,validation-1-3
+entry9' AND pg_sleep(8) --,1,validation,validation-1-3
+search10' AND pg_sleep(8) --,1,validation,validation-1-3
+item11' AND pg_sleep(8) --,1,validation,validation-1-3
+alex0'/**/OR/**/9=9--,1,validation,validation-1-4
+riley1'/**/OR/**/9=9--,1,validation,validation-1-4
+guest2'/**/OR/**/9=9--,1,validation,validation-1-4
+entry3'/**/OR/**/9=9--,1,validation,validation-1-4
+search4'/**/OR/**/9=9--,1,validation,validation-1-4
+item5'/**/OR/**/9=9--,1,validation,validation-1-4
+alex6'/**/OR/**/9=9--,1,validation,validation-1-4
+riley7'/**/OR/**/9=9--,1,validation,validation-1-4
+guest8'/**/OR/**/9=9--,1,validation,validation-1-4
+entry9'/**/OR/**/9=9--,1,validation,validation-1-4
+search10'/**/OR/**/9=9--,1,validation,validation-1-4
+item11'/**/OR/**/9=9--,1,validation,validation-1-4
+alex0' OR 6>1 --,1,validation,validation-1-5
+riley1' OR 6>1 --,1,validation,validation-1-5
+guest2' OR 6>1 --,1,validation,validation-1-5
+entry3' OR 6>1 --,1,validation,validation-1-5
+search4' OR 6>1 --,1,validation,validation-1-5
+item5' OR 6>1 --,1,validation,validation-1-5
+alex6' OR 6>1 --,1,validation,validation-1-5
+riley7' OR 6>1 --,1,validation,validation-1-5
+guest8' OR 6>1 --,1,validation,validation-1-5
+entry9' OR 6>1 --,1,validation,validation-1-5
+search10' OR 6>1 --,1,validation,validation-1-5
+item11' OR 6>1 --,1,validation,validation-1-5
+alex0' OR TRUE #,1,validation,validation-1-6
+riley1' OR TRUE #,1,validation,validation-1-6
+guest2' OR TRUE #,1,validation,validation-1-6
+entry3' OR TRUE #,1,validation,validation-1-6
+search4' OR TRUE #,1,validation,validation-1-6
+item5' OR TRUE #,1,validation,validation-1-6
+alex6' OR TRUE #,1,validation,validation-1-6
+riley7' OR TRUE #,1,validation,validation-1-6
+guest8' OR TRUE #,1,validation,validation-1-6
+entry9' OR TRUE #,1,validation,validation-1-6
+search10' OR TRUE #,1,validation,validation-1-6
+item11' OR TRUE #,1,validation,validation-1-6
+alex0' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+riley1' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+guest2' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+entry3' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+search4' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+item5' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+alex6' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+riley7' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+guest8' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+entry9' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+search10' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+item11' AND EXISTS(SELECT id FROM accounts) #,1,validation,validation-1-7
+alex0' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+riley1' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+guest2' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+entry3' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+search4' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+item5' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+alex6' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+riley7' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+guest8' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+entry9' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+search10' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+item11' OR 'b' LIKE 'b' --,1,validation,validation-1-8
+alex0'; UPDATE users SET active=1 --,1,validation,validation-1-9
+riley1'; UPDATE users SET active=1 --,1,validation,validation-1-9
+guest2'; UPDATE users SET active=1 --,1,validation,validation-1-9
+entry3'; UPDATE users SET active=1 --,1,validation,validation-1-9
+search4'; UPDATE users SET active=1 --,1,validation,validation-1-9
+item5'; UPDATE users SET active=1 --,1,validation,validation-1-9
+alex6'; UPDATE users SET active=1 --,1,validation,validation-1-9
+riley7'; UPDATE users SET active=1 --,1,validation,validation-1-9
+guest8'; UPDATE users SET active=1 --,1,validation,validation-1-9
+entry9'; UPDATE users SET active=1 --,1,validation,validation-1-9
+search10'; UPDATE users SET active=1 --,1,validation,validation-1-9
+item11'; UPDATE users SET active=1 --,1,validation,validation-1-9
+send parcel to alex0,0,test,test-0-0
+send parcel to riley1,0,test,test-0-0
+send parcel to guest2,0,test,test-0-0
+send parcel to entry3,0,test,test-0-0
+send parcel to search4,0,test,test-0-0
+send parcel to item5,0,test,test-0-0
+send parcel to alex6,0,test,test-0-0
+send parcel to riley7,0,test,test-0-0
+send parcel to guest8,0,test,test-0-0
+send parcel to entry9,0,test,test-0-0
+send parcel to search10,0,test,test-0-0
+send parcel to item11,0,test,test-0-0
+D'Souza alex0,0,test,test-0-1
+D'Souza riley1,0,test,test-0-1
+D'Souza guest2,0,test,test-0-1
+D'Souza entry3,0,test,test-0-1
+D'Souza search4,0,test,test-0-1
+D'Souza item5,0,test,test-0-1
+D'Souza alex6,0,test,test-0-1
+D'Souza riley7,0,test,test-0-1
+D'Souza guest8,0,test,test-0-1
+D'Souza entry9,0,test,test-0-1
+D'Souza search10,0,test,test-0-1
+D'Souza item11,0,test,test-0-1
+sleep hygiene checklist alex0,0,test,test-0-2
+sleep hygiene checklist riley1,0,test,test-0-2
+sleep hygiene checklist guest2,0,test,test-0-2
+sleep hygiene checklist entry3,0,test,test-0-2
+sleep hygiene checklist search4,0,test,test-0-2
+sleep hygiene checklist item5,0,test,test-0-2
+sleep hygiene checklist alex6,0,test,test-0-2
+sleep hygiene checklist riley7,0,test,test-0-2
+sleep hygiene checklist guest8,0,test,test-0-2
+sleep hygiene checklist entry9,0,test,test-0-2
+sleep hygiene checklist search10,0,test,test-0-2
+sleep hygiene checklist item11,0,test,test-0-2
+trade union registration alex0,0,test,test-0-3
+trade union registration riley1,0,test,test-0-3
+trade union registration guest2,0,test,test-0-3
+trade union registration entry3,0,test,test-0-3
+trade union registration search4,0,test,test-0-3
+trade union registration item5,0,test,test-0-3
+trade union registration alex6,0,test,test-0-3
+trade union registration riley7,0,test,test-0-3
+trade union registration guest8,0,test,test-0-3
+trade union registration entry9,0,test,test-0-3
+trade union registration search10,0,test,test-0-3
+trade union registration item11,0,test,test-0-3
+delete playlist named alex0,0,test,test-0-4
+delete playlist named riley1,0,test,test-0-4
+delete playlist named guest2,0,test,test-0-4
+delete playlist named entry3,0,test,test-0-4
+delete playlist named search4,0,test,test-0-4
+delete playlist named item5,0,test,test-0-4
+delete playlist named alex6,0,test,test-0-4
+delete playlist named riley7,0,test,test-0-4
+delete playlist named guest8,0,test,test-0-4
+delete playlist named entry9,0,test,test-0-4
+delete playlist named search10,0,test,test-0-4
+delete playlist named item11,0,test,test-0-4
+SQL textbook: UNION SELECT combines rows alex0,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows riley1,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows guest2,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows entry3,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows search4,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows item5,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows alex6,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows riley7,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows guest8,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows entry9,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows search10,0,test,test-0-5
+SQL textbook: UNION SELECT combines rows item11,0,test,test-0-5
+lecture notes: OR 3=3 is true alex0,0,test,test-0-6
+lecture notes: OR 3=3 is true riley1,0,test,test-0-6
+lecture notes: OR 3=3 is true guest2,0,test,test-0-6
+lecture notes: OR 3=3 is true entry3,0,test,test-0-6
+lecture notes: OR 3=3 is true search4,0,test,test-0-6
+lecture notes: OR 3=3 is true item5,0,test,test-0-6
+lecture notes: OR 3=3 is true alex6,0,test,test-0-6
+lecture notes: OR 3=3 is true riley7,0,test,test-0-6
+lecture notes: OR 3=3 is true guest8,0,test,test-0-6
+lecture notes: OR 3=3 is true entry9,0,test,test-0-6
+lecture notes: OR 3=3 is true search10,0,test,test-0-6
+lecture notes: OR 3=3 is true item11,0,test,test-0-6
+pg_sleep(2) is covered in the tutorial alex0,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial riley1,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial guest2,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial entry3,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial search4,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial item5,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial alex6,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial riley7,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial guest8,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial entry9,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial search10,0,test,test-0-7
+pg_sleep(2) is covered in the tutorial item11,0,test,test-0-7
+information_schema.tables documentation alex0,0,test,test-0-8
+information_schema.tables documentation riley1,0,test,test-0-8
+information_schema.tables documentation guest2,0,test,test-0-8
+information_schema.tables documentation entry3,0,test,test-0-8
+information_schema.tables documentation search4,0,test,test-0-8
+information_schema.tables documentation item5,0,test,test-0-8
+information_schema.tables documentation alex6,0,test,test-0-8
+information_schema.tables documentation riley7,0,test,test-0-8
+information_schema.tables documentation guest8,0,test,test-0-8
+information_schema.tables documentation entry9,0,test,test-0-8
+information_schema.tables documentation search10,0,test,test-0-8
+information_schema.tables documentation item11,0,test,test-0-8
+select this hotel for alex0,0,test,test-0-9
+select this hotel for riley1,0,test,test-0-9
+select this hotel for guest2,0,test,test-0-9
+select this hotel for entry3,0,test,test-0-9
+select this hotel for search4,0,test,test-0-9
+select this hotel for item5,0,test,test-0-9
+select this hotel for alex6,0,test,test-0-9
+select this hotel for riley7,0,test,test-0-9
+select this hotel for guest8,0,test,test-0-9
+select this hotel for entry9,0,test,test-0-9
+select this hotel for search10,0,test,test-0-9
+select this hotel for item11,0,test,test-0-9
+please update account details alex0,0,test,test-0-10
+please update account details riley1,0,test,test-0-10
+please update account details guest2,0,test,test-0-10
+please update account details entry3,0,test,test-0-10
+please update account details search4,0,test,test-0-10
+please update account details item5,0,test,test-0-10
+please update account details alex6,0,test,test-0-10
+please update account details riley7,0,test,test-0-10
+please update account details guest8,0,test,test-0-10
+please update account details entry9,0,test,test-0-10
+please update account details search10,0,test,test-0-10
+please update account details item11,0,test,test-0-10
+drop the package at alex0,0,test,test-0-11
+drop the package at riley1,0,test,test-0-11
+drop the package at guest2,0,test,test-0-11
+drop the package at entry3,0,test,test-0-11
+drop the package at search4,0,test,test-0-11
+drop the package at item5,0,test,test-0-11
+drop the package at alex6,0,test,test-0-11
+drop the package at riley7,0,test,test-0-11
+drop the package at guest8,0,test,test-0-11
+drop the package at entry9,0,test,test-0-11
+drop the package at search10,0,test,test-0-11
+drop the package at item11,0,test,test-0-11
+year-end report alex0,0,test,test-0-12
+year-end report riley1,0,test,test-0-12
+year-end report guest2,0,test,test-0-12
+year-end report entry3,0,test,test-0-12
+year-end report search4,0,test,test-0-12
+year-end report item5,0,test,test-0-12
+year-end report alex6,0,test,test-0-12
+year-end report riley7,0,test,test-0-12
+year-end report guest8,0,test,test-0-12
+year-end report entry9,0,test,test-0-12
+year-end report search10,0,test,test-0-12
+year-end report item11,0,test,test-0-12
+ASCII function study notes alex0,0,test,test-0-13
+ASCII function study notes riley1,0,test,test-0-13
+ASCII function study notes guest2,0,test,test-0-13
+ASCII function study notes entry3,0,test,test-0-13
+ASCII function study notes search4,0,test,test-0-13
+ASCII function study notes item5,0,test,test-0-13
+ASCII function study notes alex6,0,test,test-0-13
+ASCII function study notes riley7,0,test,test-0-13
+ASCII function study notes guest8,0,test,test-0-13
+ASCII function study notes entry9,0,test,test-0-13
+ASCII function study notes search10,0,test,test-0-13
+ASCII function study notes item11,0,test,test-0-13
+waitfor delay syntax notes alex0,0,test,test-0-14
+waitfor delay syntax notes riley1,0,test,test-0-14
+waitfor delay syntax notes guest2,0,test,test-0-14
+waitfor delay syntax notes entry3,0,test,test-0-14
+waitfor delay syntax notes search4,0,test,test-0-14
+waitfor delay syntax notes item5,0,test,test-0-14
+waitfor delay syntax notes alex6,0,test,test-0-14
+waitfor delay syntax notes riley7,0,test,test-0-14
+waitfor delay syntax notes guest8,0,test,test-0-14
+waitfor delay syntax notes entry9,0,test,test-0-14
+waitfor delay syntax notes search10,0,test,test-0-14
+waitfor delay syntax notes item11,0,test,test-0-14
+please load_file(path) in the tutorial alex0,0,test,test-0-15
+please load_file(path) in the tutorial riley1,0,test,test-0-15
+please load_file(path) in the tutorial guest2,0,test,test-0-15
+please load_file(path) in the tutorial entry3,0,test,test-0-15
+please load_file(path) in the tutorial search4,0,test,test-0-15
+please load_file(path) in the tutorial item5,0,test,test-0-15
+please load_file(path) in the tutorial alex6,0,test,test-0-15
+please load_file(path) in the tutorial riley7,0,test,test-0-15
+please load_file(path) in the tutorial guest8,0,test,test-0-15
+please load_file(path) in the tutorial entry9,0,test,test-0-15
+please load_file(path) in the tutorial search10,0,test,test-0-15
+please load_file(path) in the tutorial item11,0,test,test-0-15
+alex0' OR 3=3 -- tail,1,test,test-1-0
+riley1' OR 3=3 -- tail,1,test,test-1-0
+guest2' OR 3=3 -- tail,1,test,test-1-0
+entry3' OR 3=3 -- tail,1,test,test-1-0
+search4' OR 3=3 -- tail,1,test,test-1-0
+item5' OR 3=3 -- tail,1,test,test-1-0
+alex6' OR 3=3 -- tail,1,test,test-1-0
+riley7' OR 3=3 -- tail,1,test,test-1-0
+guest8' OR 3=3 -- tail,1,test,test-1-0
+entry9' OR 3=3 -- tail,1,test,test-1-0
+search10' OR 3=3 -- tail,1,test,test-1-0
+item11' OR 3=3 -- tail,1,test,test-1-0
+alex0' UNION SELECT address FROM clients #,1,test,test-1-1
+riley1' UNION SELECT address FROM clients #,1,test,test-1-1
+guest2' UNION SELECT address FROM clients #,1,test,test-1-1
+entry3' UNION SELECT address FROM clients #,1,test,test-1-1
+search4' UNION SELECT address FROM clients #,1,test,test-1-1
+item5' UNION SELECT address FROM clients #,1,test,test-1-1
+alex6' UNION SELECT address FROM clients #,1,test,test-1-1
+riley7' UNION SELECT address FROM clients #,1,test,test-1-1
+guest8' UNION SELECT address FROM clients #,1,test,test-1-1
+entry9' UNION SELECT address FROM clients #,1,test,test-1-1
+search10' UNION SELECT address FROM clients #,1,test,test-1-1
+item11' UNION SELECT address FROM clients #,1,test,test-1-1
+alex0; DROP TABLE audit_log,1,test,test-1-2
+riley1; DROP TABLE audit_log,1,test,test-1-2
+guest2; DROP TABLE audit_log,1,test,test-1-2
+entry3; DROP TABLE audit_log,1,test,test-1-2
+search4; DROP TABLE audit_log,1,test,test-1-2
+item5; DROP TABLE audit_log,1,test,test-1-2
+alex6; DROP TABLE audit_log,1,test,test-1-2
+riley7; DROP TABLE audit_log,1,test,test-1-2
+guest8; DROP TABLE audit_log,1,test,test-1-2
+entry9; DROP TABLE audit_log,1,test,test-1-2
+search10; DROP TABLE audit_log,1,test,test-1-2
+item11; DROP TABLE audit_log,1,test,test-1-2
+alex0'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+riley1'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+guest2'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+entry3'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+search4'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+item5'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+alex6'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+riley7'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+guest8'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+entry9'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+search10'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+item11'; DELETE FROM sessions WHERE id=8 --,1,test,test-1-3
+alex0' AND SLEEP(7) #,1,test,test-1-4
+riley1' AND SLEEP(7) #,1,test,test-1-4
+guest2' AND SLEEP(7) #,1,test,test-1-4
+entry3' AND SLEEP(7) #,1,test,test-1-4
+search4' AND SLEEP(7) #,1,test,test-1-4
+item5' AND SLEEP(7) #,1,test,test-1-4
+alex6' AND SLEEP(7) #,1,test,test-1-4
+riley7' AND SLEEP(7) #,1,test,test-1-4
+guest8' AND SLEEP(7) #,1,test,test-1-4
+entry9' AND SLEEP(7) #,1,test,test-1-4
+search10' AND SLEEP(7) #,1,test,test-1-4
+item11' AND SLEEP(7) #,1,test,test-1-4
+alex0'/**/OR/**/8=8#,1,test,test-1-5
+riley1'/**/OR/**/8=8#,1,test,test-1-5
+guest2'/**/OR/**/8=8#,1,test,test-1-5
+entry3'/**/OR/**/8=8#,1,test,test-1-5
+search4'/**/OR/**/8=8#,1,test,test-1-5
+item5'/**/OR/**/8=8#,1,test,test-1-5
+alex6'/**/OR/**/8=8#,1,test,test-1-5
+riley7'/**/OR/**/8=8#,1,test,test-1-5
+guest8'/**/OR/**/8=8#,1,test,test-1-5
+entry9'/**/OR/**/8=8#,1,test,test-1-5
+search10'/**/OR/**/8=8#,1,test,test-1-5
+item11'/**/OR/**/8=8#,1,test,test-1-5
+alex0' OR TRUE /*,1,test,test-1-6
+riley1' OR TRUE /*,1,test,test-1-6
+guest2' OR TRUE /*,1,test,test-1-6
+entry3' OR TRUE /*,1,test,test-1-6
+search4' OR TRUE /*,1,test,test-1-6
+item5' OR TRUE /*,1,test,test-1-6
+alex6' OR TRUE /*,1,test,test-1-6
+riley7' OR TRUE /*,1,test,test-1-6
+guest8' OR TRUE /*,1,test,test-1-6
+entry9' OR TRUE /*,1,test,test-1-6
+search10' OR TRUE /*,1,test,test-1-6
+item11' OR TRUE /*,1,test,test-1-6
+alex0' OR 12>8 #,1,test,test-1-7
+riley1' OR 12>8 #,1,test,test-1-7
+guest2' OR 12>8 #,1,test,test-1-7
+entry3' OR 12>8 #,1,test,test-1-7
+search4' OR 12>8 #,1,test,test-1-7
+item5' OR 12>8 #,1,test,test-1-7
+alex6' OR 12>8 #,1,test,test-1-7
+riley7' OR 12>8 #,1,test,test-1-7
+guest8' OR 12>8 #,1,test,test-1-7
+entry9' OR 12>8 #,1,test,test-1-7
+search10' OR 12>8 #,1,test,test-1-7
+item11' OR 12>8 #,1,test,test-1-7
+alex0' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+riley1' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+guest2' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+entry3' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+search4' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+item5' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+alex6' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+riley7' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+guest8' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+entry9' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+search10' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+item11' OR 9 BETWEEN 8 AND 10 #,1,test,test-1-8
+alex0' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+riley1' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+guest2' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+entry3' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+search4' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+item5' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+alex6' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+riley7' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+guest8' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+entry9' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+search10' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+item11' OR 'cat' LIKE 'cat' #,1,test,test-1-9
+alex0' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+riley1' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+guest2' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+entry3' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+search4' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+item5' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+alex6' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+riley7' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+guest8' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+entry9' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+search10' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+item11' AND EXISTS(SELECT name FROM clients) #,1,test,test-1-10
+"alex0' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"riley1' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"guest2' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"entry3' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"search4' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"item5' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"alex6' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"riley7' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"guest8' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"entry9' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"search10' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+"item11' AND ASCII(SUBSTRING(secret,2,1))>70 #",1,test,test-1-11
+alex0' OR NOT FALSE #,1,test,test-1-12
+riley1' OR NOT FALSE #,1,test,test-1-12
+guest2' OR NOT FALSE #,1,test,test-1-12
+entry3' OR NOT FALSE #,1,test,test-1-12
+search4' OR NOT FALSE #,1,test,test-1-12
+item5' OR NOT FALSE #,1,test,test-1-12
+alex6' OR NOT FALSE #,1,test,test-1-12
+riley7' OR NOT FALSE #,1,test,test-1-12
+guest8' OR NOT FALSE #,1,test,test-1-12
+entry9' OR NOT FALSE #,1,test,test-1-12
+search10' OR NOT FALSE #,1,test,test-1-12
+item11' OR NOT FALSE #,1,test,test-1-12
+"alex0' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"riley1' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"guest2' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"entry3' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"search4' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"item5' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"alex6' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"riley7' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"guest8' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"entry9' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"search10' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+"item11' UNION ALL SELECT NULL,NULL,NULL #",1,test,test-1-13
+alex0'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+riley1'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+guest2'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+entry3'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+search4'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+item5'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+alex6'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+riley7'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+guest8'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+entry9'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+search10'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+item11'; WAITFOR DELAY '00:00:07' --,1,test,test-1-14
+"alex0' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"riley1' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"guest2' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"entry3' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"search4' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"item5' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"alex6' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"riley7' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"guest8' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"entry9' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"search10' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15
+"item11' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",1,test,test-1-15

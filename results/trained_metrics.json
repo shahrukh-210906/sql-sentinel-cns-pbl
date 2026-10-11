@@ -1,0 +1,1139 @@
+{
+  "model": "Character TF-IDF (2-5 grams) + Logistic Regression",
+  "data_source": "Authored synthetic corpus v2",
+  "limitations": "Synthetic family-separated development benchmark, not independent real-world validation. Correlated variants.",
+  "split_counts": {
+    "train": 1560,
+    "validation": 240,
+    "test": 384
+  },
+  "test_families": 32,
+  "candidates": [
+    {
+      "C": 0.5,
+      "validation_f1": 1.0
+    },
+    {
+      "C": 2.0,
+      "validation_f1": 1.0
+    },
+    {
+      "C": 8.0,
+      "validation_f1": 1.0
+    }
+  ],
+  "selected_C": 0.5,
+  "threshold": 0.5,
+  "sklearn_version": "1.9.1",
+  "python": "3.12.8",
+  "dataset_sha256": "c69d7c3615b7da2d8e262e5cc53edbaad7bce00163e60ec01a563c991a8c9ce7",
+  "training_and_evaluation_seconds": 1.6156673000004957,
+  "rule_based": {
+    "accuracy": 0.59375,
+    "precision": 0.6,
+    "recall": 0.5625,
+    "f1": 0.5806451612903225,
+    "false_positive_rate": 0.375,
+    "confusion": {
+      "tp": 108,
+      "tn": 120,
+      "fp": 72,
+      "fn": 84
+    },
+    "milliseconds_per_input": 0.005919791666049908,
+    "errors": [
+      {
+        "text": "SQL textbook: UNION SELECT combines rows alex0",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows riley1",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows guest2",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows entry3",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows search4",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows item5",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows alex6",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows riley7",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows guest8",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows entry9",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows search10",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "SQL textbook: UNION SELECT combines rows item11",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true alex0",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true riley1",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true guest2",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true entry3",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true search4",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true item5",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true alex6",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true riley7",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true guest8",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true entry9",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true search10",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "lecture notes: OR 3=3 is true item11",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial alex0",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial riley1",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial guest2",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial entry3",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial search4",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial item5",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial alex6",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial riley7",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial guest8",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial entry9",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial search10",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "pg_sleep(2) is covered in the tutorial item11",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation alex0",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation riley1",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation guest2",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation entry3",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation search4",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation item5",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation alex6",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation riley7",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation guest8",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation entry9",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation search10",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation item11",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes alex0",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes riley1",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes guest2",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes entry3",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes search4",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes item5",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes alex6",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes riley7",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes guest8",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes entry9",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes search10",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "waitfor delay syntax notes item11",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial alex0",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial riley1",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial guest2",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial entry3",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial search4",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial item5",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial alex6",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial riley7",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial guest8",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial entry9",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial search10",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "please load_file(path) in the tutorial item11",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "alex0' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley1' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest2' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry3' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search4' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item5' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex6' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley7' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest8' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry9' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search10' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item11' OR TRUE /*",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex0' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley1' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest2' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry3' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search4' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item5' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex6' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley7' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest8' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry9' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search10' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item11' OR 12>8 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex0' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley1' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest2' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry3' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search4' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item5' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex6' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley7' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest8' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry9' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search10' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item11' OR 9 BETWEEN 8 AND 10 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex0' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley1' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest2' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry3' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search4' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item5' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex6' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley7' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest8' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry9' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search10' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item11' AND EXISTS(SELECT name FROM clients) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex0' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley1' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest2' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry3' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search4' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item5' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex6' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley7' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest8' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry9' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search10' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item11' AND ASCII(SUBSTRING(secret,2,1))>70 #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex0' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley1' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest2' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry3' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search4' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item5' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex6' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley7' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest8' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry9' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search10' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item11' OR NOT FALSE #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex0' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley1' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest2' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry3' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search4' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item5' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "alex6' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "riley7' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "guest8' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "entry9' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search10' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "item11' AND EXTRACTVALUE(1,CONCAT(0x3a,DATABASE())) #",
+        "label": 1,
+        "prediction": 0
+      }
+    ]
+  },
+  "ml_based": {
+    "accuracy": 0.9635416666666666,
+    "precision": 0.9405940594059405,
+    "recall": 0.9895833333333334,
+    "f1": 0.964467005076142,
+    "false_positive_rate": 0.0625,
+    "confusion": {
+      "tp": 190,
+      "tn": 180,
+      "fp": 12,
+      "fn": 2
+    },
+    "milliseconds_per_input": 1.6665617187641146,
+    "errors": [
+      {
+        "text": "delete playlist named alex0",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "delete playlist named alex6",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation alex0",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation riley1",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation guest2",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation entry3",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation item5",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation alex6",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation riley7",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation guest8",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation entry9",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "information_schema.tables documentation item11",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "search4' UNION SELECT address FROM clients #",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "search10' UNION SELECT address FROM clients #",
+        "label": 1,
+        "prediction": 0
+      }
+    ]
+  },
+  "family_results": [
+    {
+      "family": "test-0-0",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-1",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-10",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-11",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-12",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-13",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-14",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-15",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-2",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-3",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-4",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 0.8333333333333334
+    },
+    {
+      "family": "test-0-5",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-6",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-7",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-0-8",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 0.16666666666666666
+    },
+    {
+      "family": "test-0-9",
+      "count": 12,
+      "label": 0,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-0",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-1",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 0.8333333333333334
+    },
+    {
+      "family": "test-1-10",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-11",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-12",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-13",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-14",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-15",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-2",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-3",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-4",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-5",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-6",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-7",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-8",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 0.0,
+      "ml_accuracy": 1.0
+    },
+    {
+      "family": "test-1-9",
+      "count": 12,
+      "label": 1,
+      "rules_accuracy": 1.0,
+      "ml_accuracy": 1.0
+    }
+  ]
+}

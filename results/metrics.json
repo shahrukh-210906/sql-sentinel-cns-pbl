@@ -1,0 +1,339 @@
+{
+  "dataset": "Synthetic demonstration; disjoint template families; not real-world validation",
+  "train_count": 240,
+  "test_count": 240,
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "training_seconds": 0.0025852999997368897,
+  "rule_based": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "false_positive_rate": 0.0,
+    "confusion": {
+      "tp": 120,
+      "tn": 120,
+      "fp": 0,
+      "fn": 0
+    },
+    "milliseconds_per_input": 0.006462083333265885,
+    "errors": []
+  },
+  "ml_based": {
+    "accuracy": 0.75,
+    "precision": 0.8,
+    "recall": 0.6666666666666666,
+    "f1": 0.7272727272727272,
+    "false_positive_rate": 0.16666666666666666,
+    "confusion": {
+      "tp": 80,
+      "tn": 100,
+      "fp": 20,
+      "fn": 40
+    },
+    "milliseconds_per_input": 0.03831416666647177,
+    "errors": [
+      {
+        "text": "sleep advice sample100",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample101",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample102",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample103",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample104",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample105",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample106",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample107",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample108",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample109",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample110",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample111",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample112",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample113",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample114",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample115",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample116",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample117",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample118",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sleep advice sample119",
+        "label": 0,
+        "prediction": 1
+      },
+      {
+        "text": "sample100; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample101; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample102; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample103; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample104; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample105; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample106; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample107; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample108; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample109; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample110; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample111; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample112; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample113; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample114; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample115; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample116; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample117; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample118; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample119; DELETE FROM inventory",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample100'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample101'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample102'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample103'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample104'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample105'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample106'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample107'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample108'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample109'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample110'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample111'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample112'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample113'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample114'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample115'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample116'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample117'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample118'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      },
+      {
+        "text": "sample119'/**/OR/**/2=2--",
+        "label": 1,
+        "prediction": 0
+      }
+    ]
+  }
+}
