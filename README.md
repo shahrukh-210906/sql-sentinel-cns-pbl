@@ -1,6 +1,6 @@
 # SQL Sentinel — CNS Project 76
 
-The new Streamlit app has **Rule-based**, **ML-based**, and **Comparison** tabs, animated processing, real rule matches, learned feature contributions, and one shared input.
+The Streamlit app has **Rule-based**, **ML-based**, and **Comparison** tabs, animated processing, real rule matches, learned feature contributions, and one shared input.
 
 ## Hosted app and detailed report
 
@@ -51,4 +51,15 @@ For a separately prepared corpus, run `train_model.py --csv path\to\corpus.csv`.
 
 `streamlit_app.py` provides the app; `train_model.py` trains and evaluates; `training_data.py` builds synthetic examples; `trained_model.py` provides predictions and explanations. Animations illustrate processing, not latency. Inputs are inspected locally and never executed as SQL. Actual applications should use parameterized queries.
 
-The earlier app (`python app.py`, port 8765), Naive Bayes baseline, `results/metrics.json`, and academic drafts are preserved as legacy material. Their model description and metrics do not describe the Streamlit version. Revise drafts using the training update and fill in team names before submission.
+## Project files
+
+- `streamlit_app.py`: three-tab app and input handling.
+- `visual_ui.py` and `ui.css`: simulation, charts, and styling.
+- `detector.py`: normalization and the six detection rules.
+- `trained_model.py`: load the trained model and explain predictions.
+- `training_data.py`, `train_model.py`, and `evaluation.py`: data generation, training, and evaluation.
+- `models/`, `data/`, and `results/trained_metrics.json`: trained artifact, current corpus, and benchmark.
+- `tests/`: current detector, training, and app checks.
+- `docs/`: final report, training guide, and deployment instructions.
+
+The old HTTP app, Naive Bayes implementation, old dataset, outdated drafts, and generated previews were removed on 12 October 2026. Start the current app with `run_streamlit.bat`; port 8765 belongs to the removed version. The Word and PDF reports are the final 11 October snapshots; their historical source-file section describes the earlier repository layout. This README describes the cleaned repository.

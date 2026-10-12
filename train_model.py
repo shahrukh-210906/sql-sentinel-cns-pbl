@@ -13,7 +13,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import f1_score
 from sklearn.pipeline import Pipeline
 from detector import normalize,rule_detect
-from experiment import evaluate
+from evaluation import evaluate
 from training_data import build,save
 from trained_model import TrainedDetector
 

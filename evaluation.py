@@ -1,9 +1,5 @@
-import json
-import platform
+"""Compute classification metrics for the current training pipeline."""
 import time
-from pathlib import Path
-from dataset import build, save
-from detector import NaiveBayes, rule_detect
 
 def evaluate(detector, rows):
     tp = tn = fp = fn = 0
@@ -26,21 +22,3 @@ def evaluate(detector, rows):
                 false_positive_rate=fp/(fp+tn), confusion=dict(tp=tp,tn=tn,fp=fp,fn=fn),
                 milliseconds_per_input=elapsed*1000/len(rows), errors=errors)
 
-def run():
-    rows = build()
-    train = [r for r in rows if r['split']=='train']
-    test = [r for r in rows if r['split']=='test']
-    start = time.perf_counter()
-    model = NaiveBayes().fit(train)
-    training = time.perf_counter()-start
-    results = dict(dataset='Synthetic demonstration; disjoint template families; not real-world validation',
-                   train_count=len(train),test_count=len(test),python=platform.python_version(),
-                   platform=platform.platform(), training_seconds=training,
-                   rule_based=evaluate(rule_detect,test),ml_based=evaluate(model.predict,test))
-    Path('results').mkdir(exist_ok=True)
-    save()
-    Path('results/metrics.json').write_text(json.dumps(results,indent=2),encoding='utf-8')
-    return results
-
-if __name__ == '__main__':
-    print(json.dumps(run(),indent=2))
