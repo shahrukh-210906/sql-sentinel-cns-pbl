@@ -2,13 +2,11 @@
 
 The Streamlit app has **Rule-based**, **ML-based**, and **Comparison** tabs, animated processing, real rule matches, learned feature contributions, and one shared input.
 
-## Hosted app and detailed report
+## Hosted app
 
 Live app: https://cryptopbl.streamlit.app/
 
 Source: https://github.com/shahrukh-210906/sql-sentinel-cns-pbl
-
-The detailed technical report is in `docs/Project-Technical-Report.docx`, with a PDF copy and editable Markdown source. It explains the algorithms, equations, parameters, training, source files, animations, state, results, tests, deployment, and limitations.
 
 ## Run
 
@@ -39,7 +37,7 @@ Character TF-IDF (2–5 grams) + Logistic Regression. Training: 1,560 rows. Vali
 
 These are **authored synthetic** results, not independent real-world validation. Related SQL concepts and correlated variants remain across splits. The corpus includes legitimate SQL prose and less obvious attacks. Both corpus and model changed from the old demo, so improvement cannot be attributed solely to the model. Rules remain faster. ML scores are uncalibrated.
 
-Inspect `results/trained_metrics.json` for selection, errors, family results, version information, and dataset fingerprint. All rows are in `data/training_corpus.csv`. See `docs/trained-model.md`.
+Inspect `results/trained_metrics.json` for selection, errors, family results, version information, and dataset fingerprint. All rows are in `data/training_corpus.csv`.
 
 For a separately prepared corpus, run `train_model.py --csv path\to\corpus.csv`. Columns are `text,label,split,family`; label is 0/1; split is train/validation/test. Keep families and normalized texts separate across splits. The trainer rejects split leakage and conflicting labels. Never tune using the test set. Load only trusted locally generated model artifacts.
 
@@ -60,6 +58,5 @@ For a separately prepared corpus, run `train_model.py --csv path\to\corpus.csv`.
 - `training_data.py`, `train_model.py`, and `evaluation.py`: data generation, training, and evaluation.
 - `models/`, `data/`, and `results/trained_metrics.json`: trained artifact, current corpus, and benchmark.
 - `tests/`: current detector, training, and app checks.
-- `docs/`: final report, training guide, and deployment instructions.
 
-The old HTTP app, Naive Bayes implementation, old dataset, outdated drafts, and generated previews were removed on 12 October 2026. Start the current app with `run_streamlit.bat`; port 8765 belongs to the removed version. The Word and PDF reports are the final 11 October snapshots; their historical source-file section describes the earlier repository layout. This README describes the cleaned repository.
+The old HTTP app, Naive Bayes implementation, old dataset, outdated drafts, and generated previews were removed on 12 October 2026. Start the current app with `run_streamlit.bat`; port 8765 belongs to the removed version.
